@@ -1,0 +1,21 @@
+{
+  "projectName": "Jordan O'Leary's Digitial Garden",
+  "edenVersion": "0.2.3",
+  "outDirRoot": "eden-md-out",
+  "ignoreDirs": [
+    "node_modules",
+    ".obsidian",
+    ".git"
+  ],
+  "logVerbose": false,
+  "style": {
+    "themeColor": "#603dd3",
+    "linkColor": "#7a7aff"
+  },
+  "rssInfo": {
+    "title": "Jordan's Garden",
+    "description": "My personal notes and research for the purposes of self-betterment.",
+    "homepage": "https://example.com",
+    "language": "en"
+  }
+}

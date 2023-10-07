@@ -1,7 +1,8 @@
 ---
 author: Miyamoto Musashi
 link: https://www.amazon.com/Book-Five-Rings-Musashi-Miyamoto/dp/B0BYRJNKWY/ref=sr_1_1
-thumbnail: assets/book-cover-book-of-five-rings
+thumbnail: assets/book-cover-book-of-five-rings.jpg
+summary: An ancient samurai's combat philosophy
 ---
 ![[book-cover-book-of-five-rings.jpg]]
 ## Quotes

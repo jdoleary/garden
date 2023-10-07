@@ -2,6 +2,7 @@
 author: Matt Thornton
 link: https://www.amazon.com/dp/B0BQRWJKKL
 thumbnail: assets/book-cover-gift-of-violence.jpg
+summary: Practical Knowledge for Surviving and Thriving in a Dangerous World
 ---
 ![[book-cover-gift-of-violence.jpg]]
 ## Quotes
@@ -17,7 +18,7 @@ thumbnail: assets/book-cover-gift-of-violence.jpg
 
 > Real morality—the kind arrived at through concern for the suffering of conscious creatures—requires intolerance.
 
-> Tolerance is neither good nor bad: it always depends on what one is tolerating.10
+> Tolerance is neither good nor bad: it always depends on what one is tolerating.
 
 > “What can be asserted without evidence can also be dismissed without evidence.”
 
@@ -253,7 +254,7 @@ thumbnail: assets/book-cover-gift-of-violence.jpg
 
 > it is physical control, not pain, that you must learn to rely on when it comes to a self-defense situation.
 
-> legally dangerous9
+>being able to determine the appropriate level and application of violence is what proper self-defense is all about. Indeed, escalating force when it is unnecessary to do so is both physically hazardous and legally dangerous
 
 > teach people how to exceed you. In short, we are creating people who can beat us.
 
