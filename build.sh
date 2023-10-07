@@ -1,0 +1,1 @@
+deno run --allow-net --allow-write --allow-read --allow-env https://www.edenmarkdown.com/code/mod.ts --parseDir .
