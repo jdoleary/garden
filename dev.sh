@@ -1,0 +1,1 @@
+deno run --allow-net --allow-write --allow-read --allow-env ../eden-markdown/src/mod.ts --overwrite-template --parseDir . --preview
