@@ -1,0 +1,39 @@
+---
+hidden: true
+---
+- Foundation
+		- How to Learn Efficiently
+		- Survive, Escape, Transition, Control, Submit (Funnel of Control) (This is probably the most important chapter as it dictates the ENTIRE path specific to Jiu Jitsu / Judo)
+			- "Inside Position" The 5 control points (relating to Escape, Transition, and Control stages) (The Sumit stage loses some control) (Explain the rainbow-the inverses)
+			- Head, Shoulders, Hips control the body (handles of the spine, initiate or prevent rotation)
+			- Jiu Jitsu Bad habits imposed by training (also: "Just stand up") 
+		- What to focus on learning at which stage
+		- Jiu Jitsu Skills
+			- Knowledge of the steps first, don't skip steps
+			- Goal awareness (what is good for you, what is bad for you)
+			- Body Mechanics
+			- Habits
+			- Intelligent energy expenditure
+			- Flexibility
+			- Grip Fighting
+				- Why it didn't seem important as a white belt and now it's everything.
+				- Position ~~before~~ over Submission
+		- Principles vs Concepts
+			- Connection, force transfer
+			- Space
+			- Two on one
+		- Injury Prevention / Safety
+		- Learning from videos, notice important details (the unexplained)
+		- Resist the temptation to stay on your back, bad habits
+	- Details
+		- All submission locations (illustrated)
+			- Types of Submissions (don't be too obvious)
+		- Inside position (illustrated, including leg inside position)
+			- Deep inside position vs shallow (ref throws/posture/headposition)
+		- Angles / Frames
+		- Know your enemy
+			- Weight differences (the lighter figher is the one that moves around the other)
+			- Triangle against big guys
+		- Principles of Submission
+			- Isolate the upper joint to attack the lower
+			- Strangulation mechanics

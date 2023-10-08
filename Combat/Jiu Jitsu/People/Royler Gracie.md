@@ -1,0 +1,1 @@
+- "My dad would say that if somebody can touch your face while you're doing Jiu Jitsu, you're doing Jiu Jitsu wrong"

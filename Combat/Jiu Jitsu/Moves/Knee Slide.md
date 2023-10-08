@@ -1,0 +1,4 @@
+- Requirements
+	- A flat bottom leg (https://youtu.be/R1gMx3BFid4?t=246)
+	- No knee shield in the way
+	- Ability to turn the leg outwards https://youtu.be/R1gMx3BFid4?t=253

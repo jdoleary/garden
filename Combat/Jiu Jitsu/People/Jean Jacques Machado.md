@@ -1,0 +1,1 @@
+[Pushing the knee with the foot to get them to collapse detail](https://youtu.be/GTZwGn7HVRE?t=79)

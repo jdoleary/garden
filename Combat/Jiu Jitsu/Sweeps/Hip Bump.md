@@ -1,0 +1,4 @@
+- [Turn in a circle](https://youtu.be/uf4P5T_1fhI?t=119)
+- [Start when their posture is broken and follow them up.  Follow the momentum](https://youtu.be/uf4P5T_1fhI?t=94)
+	- "All sweeps are about using your opponent's momentum against them" - [[Brandon Mccaghren]]
+- [Collect the elbow and scoop it back towards you](https://youtu.be/uf4P5T_1fhI?t=196)

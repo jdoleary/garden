@@ -1,0 +1,8 @@
+- Wisdom ^752b9a
+	- Everytime you get onto your side, your back is also exposed: https://youtu.be/R1gMx3BFid4?t=205
+	- Higher hips win the scramble
+	- Maintain control of the feet after a sweep
+	- Don't let them control your head. Top priority
+	- Keep your trex arms, never let them get underhooks
+	- Frames beat underhooks, angles beat frames
+- Spiderweb: Grabbing the opponents leg has the same effect as getting your leg over their head: [It prevents them from coming up on top](https://youtu.be/osrwOv4qoEQ?t=215)
