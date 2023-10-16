@@ -62,9 +62,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f33e38a2af5be1b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "home steading/indoor growing/Microgreens.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b24ca08cb8d9faa0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "home steading/indoor growing/Mushrooms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -130,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Combat/Jiu Jitsu/Funnel of Control.md",
+                "file": "home steading/indoor growing/Mushrooms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Combat/Jiu Jitsu/Funnel of Control.md",
+                "file": "home steading/indoor growing/Mushrooms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Combat/Jiu Jitsu/Funnel of Control.md"
+                "file": "home steading/indoor growing/Mushrooms.md"
               }
             }
           }
@@ -191,8 +215,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0636563c98641825",
+  "active": "98d994ef20fbca05",
   "lastOpenFiles": [
+    "home steading/indoor growing/assets/pinning_mushrooms.png",
+    "home steading/indoor growing/assets",
+    "home steading/indoor growing/Microgreens.md",
+    "home steading/indoor growing/Mushrooms.md",
+    "Combat/Jiu Jitsu/Funnel of Control.md",
+    "home steading/indoor growing",
     "Body/Exercise Philosophy.md",
     "Body",
     "Combat/Jiu Jitsu/Stages of Grappling/Transition.md",
@@ -209,15 +239,12 @@
     "Combat/Jiu Jitsu/Stages of Control",
     "Combat/Jiu Jitsu/Core Concepts.md",
     "Combat/Jiu Jitsu/Inside Position.md",
-    "Combat/Jiu Jitsu/Funnel of Control.md",
     "books/The Art and Science of Judo.md",
     "eden-md-out/Jordan_Digitial_Garden/garden.json",
     "eden-md-out/Jordan_Digitial_Garden/tags/index.html",
     "eden-md-out/Jordan_Digitial_Garden/tags",
     "eden-md-out/Jordan_Digitial_Garden/index.html",
     "eden-md-out/Jordan_Digitial_Garden/table_of_contents.html",
-    "eden-md-out/Jordan_Digitial_Garden/books/The_Gift_of_Violence.html",
-    "eden-md-out/Jordan_Digitial_Garden/books/The_Book_of_Five_Rings.html",
     "eden-md-out/Jordan_Digitial_Garden/home steading/animal husbandry/dogs.md",
     "eden-md-out/Jordan_Digitial_Garden/books/The Gift of Violence.md",
     "eden-md-out/Jordan_Digitial_Garden/books/The Book of Five Rings.md",
@@ -232,8 +259,6 @@
     "eden-md-out/Jordan_O'Leary's_Digitial_Garden/books/assets/book-cover-science-of-judo.jpg",
     "eden-md-out/Jordan_O'Leary's_Digitial_Garden/books/assets/book-cover-gift-of-violence.jpg",
     "eden-md-out/Jordan_O'Leary's_Digitial_Garden/books/assets/book-cover-book-of-five-rings.jpg",
-    "books/The Gift of Violence.md",
-    "books/The Book of Five Rings.md",
     "books/assets/book-cover-book-of-five-rings.jpg",
     "books/assets/book-cover-science-of-judo.jpg",
     "books/assets/book-cover-gift-of-violence.jpg",
