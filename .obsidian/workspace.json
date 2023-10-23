@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Combat/Jiu Jitsu/Funnel of Control.md",
+                "file": "Self Defense/Jiu Jitsu/Funnel of Control.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,38 +57,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Combat/Jiu Jitsu/Funnel of Control.md",
+                "file": "Homesteading/Animal Husbandry/Dogs.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f33e38a2af5be1b9",
+            "id": "d4bdd773ce60d3d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home steading/indoor growing/Microgreens.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b24ca08cb8d9faa0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "home steading/indoor growing/Mushrooms.md",
+                "file": "books/Canine Enrichment for the Real World.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -154,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home steading/indoor growing/Mushrooms.md",
+                "file": "books/Canine Enrichment for the Real World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home steading/indoor growing/Mushrooms.md",
+                "file": "books/Canine Enrichment for the Real World.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home steading/indoor growing/Mushrooms.md"
+                "file": "books/Canine Enrichment for the Real World.md"
               }
             }
           }
@@ -215,53 +203,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98d994ef20fbca05",
+  "active": "d4bdd773ce60d3d0",
   "lastOpenFiles": [
-    "home steading/indoor growing/assets/pinning_mushrooms.png",
-    "home steading/indoor growing/assets",
-    "home steading/indoor growing/Microgreens.md",
-    "home steading/indoor growing/Mushrooms.md",
-    "Combat/Jiu Jitsu/Funnel of Control.md",
-    "home steading/indoor growing",
+    "Homesteading/Animal Husbandry/Dogs.md",
+    "books/Canine Enrichment for the Real World.md",
+    "Differential.md",
+    "books/The Book of Five Rings.md",
+    "books/The Art and Science of Judo.md",
+    "books/assets/book-cover-canine-enrichment-for-the-real-world.jpg",
+    "books/assets/41wQHLwjLZL.jpg",
+    "books/41wQHLwjLZL.jpg",
+    "Templates/Book.md",
+    "Templates",
+    "Self Defense/Jiu Jitsu/Funnel of Control.md",
+    "Homesteading/Indoor Growing/assets/pinning_mushrooms.png",
+    "Homesteading/Indoor Growing/assets",
+    "Homesteading/Indoor Growing/Mushrooms.md",
+    "Homesteading/Indoor Growing/Microgreens.md",
+    "Homesteading/Indoor Growing",
+    "Homesteading/Animal Husbandry",
+    "Homesteading",
+    "Self Defense/Jiu Jitsu/Judo/Judo_applied.md",
     "Body/Exercise Philosophy.md",
     "Body",
-    "Combat/Jiu Jitsu/Stages of Grappling/Transition.md",
-    "Combat/Jiu Jitsu/Stages of Grappling/Survival.md",
-    "Combat/Jiu Jitsu/Stages of Grappling/Submit.md",
-    "Combat/Jiu Jitsu/Stages of Grappling/Escape.md",
-    "Combat/Jiu Jitsu/Stages of Grappling/Control.md",
-    "Combat/Jiu Jitsu/Stages of Grappling",
+    "Self Defense/Jiu Jitsu/Stages of Grappling/Transition.md",
+    "Self Defense/Jiu Jitsu/Stages of Grappling/Survival.md",
+    "Self Defense/Jiu Jitsu/Stages of Grappling/Submit.md",
+    "Self Defense/Jiu Jitsu/Stages of Grappling/Escape.md",
+    "Self Defense/Jiu Jitsu/Stages of Grappling/Control.md",
+    "Self Defense/Jiu Jitsu/Stages of Grappling",
     "Combat/Jiu Jitsu/Stages of Control/Submit.md",
     "Combat/Jiu Jitsu/Stages of Control/Control.md",
     "Combat/Jiu Jitsu/Stages of Control/Transition.md",
     "Combat/Jiu Jitsu/Stages of Control/Escape.md",
     "Combat/Jiu Jitsu/Stages of Control/Survival.md",
     "Combat/Jiu Jitsu/Stages of Control",
-    "Combat/Jiu Jitsu/Core Concepts.md",
-    "Combat/Jiu Jitsu/Inside Position.md",
-    "books/The Art and Science of Judo.md",
+    "Self Defense/Jiu Jitsu/Core Concepts.md",
+    "Self Defense/Jiu Jitsu/Inside Position.md",
     "eden-md-out/Jordan_Digitial_Garden/garden.json",
     "eden-md-out/Jordan_Digitial_Garden/tags/index.html",
-    "eden-md-out/Jordan_Digitial_Garden/tags",
-    "eden-md-out/Jordan_Digitial_Garden/index.html",
-    "eden-md-out/Jordan_Digitial_Garden/table_of_contents.html",
     "eden-md-out/Jordan_Digitial_Garden/home steading/animal husbandry/dogs.md",
     "eden-md-out/Jordan_Digitial_Garden/books/The Gift of Violence.md",
     "eden-md-out/Jordan_Digitial_Garden/books/The Book of Five Rings.md",
-    "eden-md-out/Jordan_Digitial_Garden/books/The Art and Science of Judo.md",
     "eden-md-out/Jordan_Digitial_Garden/books/assets/book-cover-science-of-judo.jpg",
     "eden-md-out/Jordan_Digitial_Garden/books/assets/book-cover-gift-of-violence.jpg",
     "eden-md-out/Jordan_Digitial_Garden/books/assets/book-cover-book-of-five-rings.jpg",
-    "eden-md-out/Jordan_O'Leary's_Digitial_Garden/home steading/animal husbandry/dogs.md",
-    "eden-md-out/Jordan_O'Leary's_Digitial_Garden/books/The Gift of Violence.md",
-    "eden-md-out/Jordan_O'Leary's_Digitial_Garden/books/The Book of Five Rings.md",
-    "eden-md-out/Jordan_O'Leary's_Digitial_Garden/books/The Art and Science of Judo.md",
     "eden-md-out/Jordan_O'Leary's_Digitial_Garden/books/assets/book-cover-science-of-judo.jpg",
     "eden-md-out/Jordan_O'Leary's_Digitial_Garden/books/assets/book-cover-gift-of-violence.jpg",
-    "eden-md-out/Jordan_O'Leary's_Digitial_Garden/books/assets/book-cover-book-of-five-rings.jpg",
-    "books/assets/book-cover-book-of-five-rings.jpg",
-    "books/assets/book-cover-science-of-judo.jpg",
-    "books/assets/book-cover-gift-of-violence.jpg",
-    "books/assets/gift-of-violence-book-cover.jpg"
+    "eden-md-out/Jordan_O'Leary's_Digitial_Garden/books/assets/book-cover-book-of-five-rings.jpg"
   ]
 }
