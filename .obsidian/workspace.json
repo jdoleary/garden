@@ -1,102 +1,35 @@
 {
   "main": {
-    "id": "159dca66c9412173",
+    "id": "8dd54a42135310af",
     "type": "split",
     "children": [
       {
-        "id": "1ac87b6f3bd7f083",
+        "id": "02d76d23a7d1628f",
         "type": "tabs",
         "children": [
           {
-            "id": "40113010b018651f",
+            "id": "a70a7a46b69db335",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
-            }
-          },
-          {
-            "id": "7778c84f70724600",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b4508c230ca40004",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "3ea70308c7a2921c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Combat/Jiu Jitsu/Funnel of Control.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0636563c98641825",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Combat/Jiu Jitsu/Funnel of Control.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f33e38a2af5be1b9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b24ca08cb8d9faa0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "22db1535f2cc01de",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "8fb8b5a480b1161c",
+    "id": "4932c51c79c0e777",
     "type": "split",
     "children": [
       {
-        "id": "6666c1bc77dd1d81",
+        "id": "39aaa49a67f90db3",
         "type": "tabs",
         "children": [
           {
-            "id": "98d994ef20fbca05",
+            "id": "0cd0ce9ea63ef04e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -106,7 +39,7 @@
             }
           },
           {
-            "id": "fda367ea81b8c859",
+            "id": "5d3dbb48e3144d89",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -121,7 +54,7 @@
             }
           },
           {
-            "id": "4ac9a3e0594ea3e8",
+            "id": "ab05f119e97d249e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -135,15 +68,15 @@
     "width": 300
   },
   "right": {
-    "id": "3407bdabaf4f9a27",
+    "id": "fdaf6a832f24ea4c",
     "type": "split",
     "children": [
       {
-        "id": "7703db5e3c461719",
+        "id": "6926ff19ed4aa235",
         "type": "tabs",
         "children": [
           {
-            "id": "78e47dcea0e7fc09",
+            "id": "160e9b4b1879e64b",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -159,7 +92,7 @@
             }
           },
           {
-            "id": "9ae9f5aa7ce2f912",
+            "id": "8d75217f81b436cd",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -170,7 +103,7 @@
             }
           },
           {
-            "id": "23fcf524675143b5",
+            "id": "b1492bb95f1cb278",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -181,7 +114,7 @@
             }
           },
           {
-            "id": "b8334903fb728a04",
+            "id": "58c1b513498ba01e",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -205,53 +138,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22db1535f2cc01de",
-  "lastOpenFiles": [
-    "home steading/indoor growing/assets/pinning_mushrooms.png",
-    "home steading/indoor growing/assets",
-    "home steading/indoor growing/Microgreens.md",
-    "home steading/indoor growing/Mushrooms.md",
-    "Combat/Jiu Jitsu/Funnel of Control.md",
-    "home steading/indoor growing",
-    "Body/Exercise Philosophy.md",
-    "Body",
-    "Combat/Jiu Jitsu/Stages of Grappling/Transition.md",
-    "Combat/Jiu Jitsu/Stages of Grappling/Survival.md",
-    "Combat/Jiu Jitsu/Stages of Grappling/Submit.md",
-    "Combat/Jiu Jitsu/Stages of Grappling/Escape.md",
-    "Combat/Jiu Jitsu/Stages of Grappling/Control.md",
-    "Combat/Jiu Jitsu/Stages of Grappling",
-    "Combat/Jiu Jitsu/Stages of Control/Submit.md",
-    "Combat/Jiu Jitsu/Stages of Control/Control.md",
-    "Combat/Jiu Jitsu/Stages of Control/Transition.md",
-    "Combat/Jiu Jitsu/Stages of Control/Escape.md",
-    "Combat/Jiu Jitsu/Stages of Control/Survival.md",
-    "Combat/Jiu Jitsu/Stages of Control",
-    "Combat/Jiu Jitsu/Core Concepts.md",
-    "Combat/Jiu Jitsu/Inside Position.md",
-    "books/The Art and Science of Judo.md",
-    "eden-md-out/Jordan_Digitial_Garden/garden.json",
-    "eden-md-out/Jordan_Digitial_Garden/tags/index.html",
-    "eden-md-out/Jordan_Digitial_Garden/tags",
-    "eden-md-out/Jordan_Digitial_Garden/index.html",
-    "eden-md-out/Jordan_Digitial_Garden/table_of_contents.html",
-    "eden-md-out/Jordan_Digitial_Garden/home steading/animal husbandry/dogs.md",
-    "eden-md-out/Jordan_Digitial_Garden/books/The Gift of Violence.md",
-    "eden-md-out/Jordan_Digitial_Garden/books/The Book of Five Rings.md",
-    "eden-md-out/Jordan_Digitial_Garden/books/The Art and Science of Judo.md",
-    "eden-md-out/Jordan_Digitial_Garden/books/assets/book-cover-science-of-judo.jpg",
-    "eden-md-out/Jordan_Digitial_Garden/books/assets/book-cover-gift-of-violence.jpg",
-    "eden-md-out/Jordan_Digitial_Garden/books/assets/book-cover-book-of-five-rings.jpg",
-    "eden-md-out/Jordan_O'Leary's_Digitial_Garden/home steading/animal husbandry/dogs.md",
-    "eden-md-out/Jordan_O'Leary's_Digitial_Garden/books/The Gift of Violence.md",
-    "eden-md-out/Jordan_O'Leary's_Digitial_Garden/books/The Book of Five Rings.md",
-    "eden-md-out/Jordan_O'Leary's_Digitial_Garden/books/The Art and Science of Judo.md",
-    "eden-md-out/Jordan_O'Leary's_Digitial_Garden/books/assets/book-cover-science-of-judo.jpg",
-    "eden-md-out/Jordan_O'Leary's_Digitial_Garden/books/assets/book-cover-gift-of-violence.jpg",
-    "eden-md-out/Jordan_O'Leary's_Digitial_Garden/books/assets/book-cover-book-of-five-rings.jpg",
-    "books/assets/book-cover-book-of-five-rings.jpg",
-    "books/assets/book-cover-science-of-judo.jpg",
-    "books/assets/book-cover-gift-of-violence.jpg",
-    "books/assets/gift-of-violence-book-cover.jpg"
-  ]
+  "active": "a70a7a46b69db335",
+  "lastOpenFiles": []
 }
