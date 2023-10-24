@@ -83,6 +83,11 @@ header a:hover {
     padding:0 1em;
 }
 
+#article-header.hide-title {
+    height:0;
+    visibility:hidden;
+}
+
 nav {
     display:none;
     grid-row: 3;
@@ -99,6 +104,7 @@ nav {
 
     padding-top:1em;
     padding-right:1em;
+    padding-left:1em;
     /* Keep the nav right aligned */
     min-width:280px;
     margin-left:auto;
@@ -139,7 +145,7 @@ article {
     /* justify-content:space-between keeps the article footer at the bottom of the screen even if the content doesn't
     fill the whole screen. */
     justify-content:space-between;
-    padding: 1em;
+    padding: 0 1em 1em 1em;
     border-radius: 6px;
     margin-bottom: 1em;
     background-color: #ffffff;
@@ -399,6 +405,10 @@ nav ul {
     list-style-type: none;
     padding-left: 1em;
     margin:0;
+}
+#nav-aligner > ul {
+    /* Top level files shouldn't have any left padding */
+    padding-left:0;
 }
 nav li a.currentPage {
     color: var(--primary);

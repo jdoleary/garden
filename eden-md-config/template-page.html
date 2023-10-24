@@ -7,12 +7,13 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     {{title}}
     <!-- <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet"> -->
-    <link rel="stylesheet" href="/styles.css">
+    <link rel="stylesheet" href="/eden.css">
     <script>
         window.metadata = {{ metadata }};
     </script>
     <!-- Optional script: converts any element with data-converttimeago to the format "X days/months/years ago" -->
     <script src="/timeAgo.js" defer></script>
+    {{head:extra}}
 
 </head>
 
@@ -20,7 +21,7 @@
     <header>
         {{header}}
     </header>
-    <div id="article-header">
+    <div id="article-header" class="{{article-header-css}}">
         <div id="breadcrumbs">
             {{breadcrumbs}}
         </div>
@@ -38,7 +39,7 @@
     <nav>
         {{nav}}
     </nav>
-    <article>
+    <article class="{{metadata:cssclasses}}">
         <div id="article-main">
             <div id="article-content">
                 {{content}}

@@ -19,24 +19,16 @@
             "id": "7778c84f70724600",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "books/The Gift of Violence.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "b4508c230ca40004",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "books/The Gift of Violence.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -67,28 +59,30 @@
             "id": "f33e38a2af5be1b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "home steading/indoor growing/Microgreens.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "b24ca08cb8d9faa0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "22db1535f2cc01de",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
               "state": {
-                "file": "home steading/indoor growing/Mushrooms.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.4.16"
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -154,7 +148,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home steading/indoor growing/Mushrooms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +164,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home steading/indoor growing/Mushrooms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,9 +185,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "home steading/indoor growing/Mushrooms.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -215,7 +205,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98d994ef20fbca05",
+  "active": "22db1535f2cc01de",
   "lastOpenFiles": [
     "home steading/indoor growing/assets/pinning_mushrooms.png",
     "home steading/indoor growing/assets",
