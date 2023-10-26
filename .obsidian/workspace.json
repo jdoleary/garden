@@ -74,9 +74,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "117f5cf916cfe99d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Defense/Wrestling/Jordan Teaches Jiu Jitsu - Wrestling For BJJ Course.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ace42b6d2f0aaa2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -142,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/Canine Enrichment for the Real World.md",
+                "file": "Self Defense/Wrestling/Jordan Teaches Jiu Jitsu - Wrestling For BJJ Course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/Canine Enrichment for the Real World.md",
+                "file": "Self Defense/Wrestling/Jordan Teaches Jiu Jitsu - Wrestling For BJJ Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/Canine Enrichment for the Real World.md"
+                "file": "Self Defense/Wrestling/Jordan Teaches Jiu Jitsu - Wrestling For BJJ Course.md"
               }
             }
           }
@@ -203,10 +225,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4bdd773ce60d3d0",
+  "active": "98d994ef20fbca05",
   "lastOpenFiles": [
-    "Homesteading/Animal Husbandry/Dogs.md",
+    "Self Defense/Jiu Jitsu/Inside Position.md",
+    "Self Defense/Wrestling/Jordan Teaches Jiu Jitsu - Wrestling For BJJ Course.md",
+    "Self Defense/Jiu Jitsu/People/Jordan Preisinger.md",
+    "Self Defense/Wrestling/assets/inside thigh position.png",
+    "Self Defense/Wrestling/Moves/Snap Down.md",
+    "Self Defense/Wrestling/Moves",
+    "Self Defense/Wrestling/assets/excellent inside position.png",
+    "Self Defense/Wrestling/assets",
     "books/Canine Enrichment for the Real World.md",
+    "Self Defense/Wrestling",
+    "Homesteading/Animal Husbandry/Dogs.md",
     "Differential.md",
     "books/The Book of Five Rings.md",
     "books/The Art and Science of Judo.md",
@@ -237,19 +268,10 @@
     "Combat/Jiu Jitsu/Stages of Control/Transition.md",
     "Combat/Jiu Jitsu/Stages of Control/Escape.md",
     "Combat/Jiu Jitsu/Stages of Control/Survival.md",
-    "Combat/Jiu Jitsu/Stages of Control",
     "Self Defense/Jiu Jitsu/Core Concepts.md",
-    "Self Defense/Jiu Jitsu/Inside Position.md",
-    "eden-md-out/Jordan_Digitial_Garden/garden.json",
-    "eden-md-out/Jordan_Digitial_Garden/tags/index.html",
-    "eden-md-out/Jordan_Digitial_Garden/home steading/animal husbandry/dogs.md",
-    "eden-md-out/Jordan_Digitial_Garden/books/The Gift of Violence.md",
-    "eden-md-out/Jordan_Digitial_Garden/books/The Book of Five Rings.md",
     "eden-md-out/Jordan_Digitial_Garden/books/assets/book-cover-science-of-judo.jpg",
     "eden-md-out/Jordan_Digitial_Garden/books/assets/book-cover-gift-of-violence.jpg",
     "eden-md-out/Jordan_Digitial_Garden/books/assets/book-cover-book-of-five-rings.jpg",
-    "eden-md-out/Jordan_O'Leary's_Digitial_Garden/books/assets/book-cover-science-of-judo.jpg",
-    "eden-md-out/Jordan_O'Leary's_Digitial_Garden/books/assets/book-cover-gift-of-violence.jpg",
-    "eden-md-out/Jordan_O'Leary's_Digitial_Garden/books/assets/book-cover-book-of-five-rings.jpg"
+    "eden-md-out/Jordan_O'Leary's_Digitial_Garden/books/assets/book-cover-science-of-judo.jpg"
   ]
 }

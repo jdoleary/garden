@@ -70,3 +70,34 @@ The hierarchy is organized in terms of what to try first and what to try last
 - The vet recognizes and respects the boundaries of their own expertise
 - You have a good rapport with your vet
 
+## Nutrition
+Page 24
+> The authors have worked with many dogs who had chronic health and/or behavior issues that immediately and permanently improved after being switched to a nutritionally balanced, fresh, whole-foods die. Conversely, we have worked with dogs who could not maintain a healthy weight and generally failed to thrive on a whole-foods diet \[...\] and were only able to when switched to a processed kibble diet.
+> ...
+> This leads to a wide range of potential approaches to feeding dogs and an ongoing search for what is individually optimal
+
+> If we are going to meet our dogs' needs, we can't let ideology get in the way of observation
+
+> we also can't let anecdotal evidence take preedence over empirical evidence.
+
+>in addition to the immediate, acute changes that are influenced by diet, there are also chronic, cumulative changes that occur internally and may take years to manifest clinical symptoms.
+
+## Learned Helplessness
+Page 28
+
+> \[When\] an individual suffers from a sense of powerlessness due to inescapable aversive stimuli
+
+> For learned helplessness to occur the event must be both traumatic and outside the subject's control
+
+> Even if you can change your fate, your disbelief causes you not to try and, instead, shut down.
+
+> Watching the other dogs perform the behavior, receiving threats, and being offered rewards were not enough for them to overcome their helplessness.
+
+**Important**
+> Family dogs habitually exposed to unpredictable/uncontrollable punishment are at risk of developing disturbances associated with the learned-helplessness disorder.
+
+> Without agency, it isn't enrichment. If, in attempting to meet their social needs, we violate their need for safety, security, independence, and agency, we defeat our own purpose.
+
+
+
+
