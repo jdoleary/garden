@@ -1,5 +1,6 @@
 eden-md-out/
-.obsidian
+.obsidian/
 Combat/Jiu Jitsu/Assets/Files
 .tmp.driveupload
 .tmp.drivedownload
+.DS_Store
