@@ -21,4 +21,4 @@ Options from Deep Underhook:
 - Run through
 - [[Single Leg]]
 
-If they get [[Inside Thigh]] Position, abandon the under hook immediately and go to [[Single Leg]]
+If they get [[Inside Thigh]] Position, abandon the under hook immediately and go to [[Single Leg]].
