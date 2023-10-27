@@ -25,7 +25,7 @@ Example: Moving their weight to their back leg makes their lead leg light
 - Being too postured upright where you don't have your arms and head able to defend
 - Taking and underhook without head position
 - Giving up inside thigh position
-	- ![[inside thigh position.png|120]]
+	- ![[inside thigh position.png|360]]
 - Not immediately recovering to a proper stance after a failed shot
 
 >Wrestling starts when he pushes back
@@ -34,7 +34,7 @@ Example: Moving their weight to their back leg makes their lead leg light
 
 Perfect example of Out of Position (left) and In Position (right)
 
-![[excellent inside position.png|180]]
+![[excellent inside position.png|360]]
 
 > This "push-pull" is the backbone of getting your opponent out of position
 
@@ -67,3 +67,55 @@ You must always attack the Post to keep your opponent on the mat.
 The same is true with passing (clear legs, control torso in either order)
 
 You can attack their Posts to keep them from getting back up.
+
+# On The Mat
+## Stance
+Keep your toes pointed forward like a sprinter.  If you back leg is turned out, you don't have a lot of power.
+Shoulders over your toes (not behind, not in front)
+Elbows pointed in
+
+## Inside Control
+To clear their arm, push against the bottom of their elbow rather than grabbing your wrist.  This affords you more control over their posture; whereas if you are holding their wrist they can still move their head as defense.
+
+Timestamp 5:00.  Once you get inside control, if you're on his shoulders go thumbs in to push and once he "puts the break on" then you can pull him around.
+
+![[Collar Tie#^510621]]
+
+The one who has Inside Control, controls the push.
+![[Pasted image 20231027083341.png|360]]
+
+> [!Tip] Drill 
+> Get inside control, push, push, push; when he stops you: pull
+
+You can't just move someone with strength, it has to be "their idea" - then you add to it.  When that "break" comes on, that's when his weight starts coming forward.
+
+This is what "putting the breaks on" looks like.  Almost everyone takes a bigger step backwards to stop the momentum of you pushing; that's your cue to [[Snap Down]]
+![[Pasted image 20231027083812.png|360]]
+> All my shots, all my snaps are coming off of that back foot cue
+
+## 50/50 Positions
+
+Poor hand fighting grips is when you both have the same grip.  This goes for fingers interlaced grip too.
+![[Pasted image 20231027084827.png|360]]
+Superior hand fighting grip; because the only way for him to get the hand free when I push is to roll it and open up his Inside Position
+![[Pasted image 20231027084601.png|360]]
+
+Another 50/50 Position is double collar tie.  You can't snap him cause you're snapping him right into you.
+**Avoid these positions**
+If you get caught in these positions, you need to get out.  
+Rotate your forehead into his head.  Then you can circle away from the [[Collar Tie]] if you just want it off
+![[Pasted image 20231027085011.png|360]]
+
+Bone grip: how to grab the elbow:
+![[Pasted image 20231027085121.png|360]]
+
+![[Collar Tie#^d20dc8]]
+
+### Very dominant position
+- Strong underhook
+- Inside Thigh Position
+- Aligned stance
+- Inside head position (not pictured)
+![[Pasted image 20231027085758.png|360]]
+You can use control on the back of the head to reinforce your underhook by pulling down.
+![[Pasted image 20231027085914.png|360]]
