@@ -1,0 +1,7 @@
+- [ ] Proper Stance
+- [ ] Proper [[Under Hook]] Position
+- [ ] Obtaining [[Under Hook]]
+- [ ] Spin Down (rotate in a circle, pivot on the ball of your foot)
+- [ ] Push, then Pull
+- [ ] Freeing yourself from 50/50 clinch
+- [ ] [[Snap Down]] Push, then Pull

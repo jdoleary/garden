@@ -5,7 +5,7 @@ You don't want to just grab a Collar Tie and hold because then his back gets all
 [Source - Ch. Inside Control; Time: 5:40](https://courses.jordanteachesjiujitsu.com/courses/take/wrestling-for-bjj/lessons/49632610-inside-control)^510621
 
 
-> [!warning] Breaking the Collar Tie
+> [!warning] Breaking the Collar Tie Incorrectly
 > Rotate your shoulder into him but maintain your posture. Do NOT pull away (pictured below) because this compromises your stance.
 > ![[Pasted image 20231027085223.png|360]]
 

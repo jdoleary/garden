@@ -24,8 +24,7 @@ Example: Moving their weight to their back leg makes their lead leg light
 "To have your defense incorrectly positioned to be able to defend your opponents attacks "
 - Being too postured upright where you don't have your arms and head able to defend
 - Taking and underhook without head position
-- Giving up inside thigh position
-	- ![[inside thigh position.png|360]]
+- Giving up [[Inside Thigh]] position
 - Not immediately recovering to a proper stance after a failed shot
 
 >Wrestling starts when he pushes back
