@@ -119,3 +119,11 @@ Bone grip: how to grab the elbow:
 ![[Pasted image 20231027085758.png|360]]
 You can use control on the back of the head to reinforce your underhook by pulling down.
 ![[Pasted image 20231027085914.png|360]]
+
+Technique for getting underhook:
+- Cross grab
+- Pull
+- Place your free forearm on his forearm and squat
+- Slide, keep the wrist and get the underhook (picture 2)
+![[Pasted image 20231027090846.png|360]]
+![[Pasted image 20231027090936.png|360]]
