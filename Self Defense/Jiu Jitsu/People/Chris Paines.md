@@ -124,4 +124,59 @@ Create space all of the time and they will have a much harder time submitting yo
 	- This is why we shift, instead of step, when moving in a combat stance.  We do not let our feet cross each other.
 - When both combatants are standing, to take them down your only objective is to get behind their shoulder and connect.
 	- Think of keeping your belly button connected to them (this ensures good posture)
-- 
+---
+10-28-2023
+## Flanking
+Takedowns: The only thing I'm looking for is to get around the back of your shoulder.
+Arm drag: lock the arm in place and walk around it
+
+In Referee position, if they're on the side of you and you can move your leg behind theirs then you're behind their shoulder and you're winning.
+It's like what makes one position in Dog Fight superior.
+Arm drags work from Referee too.
+
+Can I keep the door closed and get behind you.
+If both players are down on the mat, whoever is "winning" is whoever is behind the hips of the other person.  Same principle of getting behind the shoulder.
+
+Practice this on less skilled opponents so you can work it.
+"It's not a reflection on me if a lower belt beats me"
+It's an important thing to humble yourself or else you deny yourself training in the areas in which you are weak.
+
+This is how keenan learns, try new things against worse people.
+
+On "Just getting up" from darces and arm triangles
+Turtle to tripod
+side bottom - get under them, stand
+If someone is going for a darce by pulling my arm I can just get up
+You can hold me down while pulling me up.
+Arm bars and darces, you need them on the floor
+See latest youtube video and instagram
+If they try to pull you up, just get up and they'll have to switch to keep you down
+Arm Triangle: if they're on the side:
+	Hold the back of your knee with the back of your wrist to prevent your shoulder 
+	Then turn away
+	Because I'm on my side digging my toes into the floor they can't pull me down again
+	Roll away and pull my bottom leg underneath me. I'm not sweeping them, I'm moving myself. The roll away almost looks like a gramby, you're curling up and inverting
+Mounted Arm Triangle: Go the other way, bridge over shoulder, get your arm to the ground and go baby bridge
+
+North south Kimura
+![[Pasted image 20231028114552.png|360]]
+This pops them off your elbow, then go underneath and get elbow down.
+This is just pushing their forearm off
+![[Pasted image 20231028114640.png|360]]
+Northsouth Kimura survival, just keep shrimping in circles because then they don't have your body.
+
+Escaping the "Control Joint" is always better than escaping the "Submission Joint"
+Which affects the "Breakable Joint"
+
+It's hard to move up from the core, it's easy to move away form the core when trying to control
+Heel Hook to Toe hold
+Kimura to Wrist lock
+if you lose the control joint
+
+Inside heel hook, knee bar and outside heel hook all require that I control your hip.
+eliete level leg lockers have a crushing grip on your hip
+The control joint is the most important to control.  The control joint dictates if you'll be successful
+
+Free the hip vs control the hip IS the leglock shootout
+If I ask you to break a stick you have to control both sides of it.
+- [ ] Record footage of myself rolling
