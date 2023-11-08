@@ -126,10 +126,10 @@ Create space all of the time and they will have a much harder time submitting yo
 	- Think of keeping your belly button connected to them (this ensures good posture)
 ---
 10-28-2023
+
+Arm drag: lock the arm in place and walk around it
 ## Flanking
 Takedowns: The only thing I'm looking for is to get around the back of your shoulder.
-Arm drag: lock the arm in place and walk around it
-
 In Referee position, if they're on the side of you and you can move your leg behind theirs then you're behind their shoulder and you're winning.
 It's like what makes one position in Dog Fight superior.
 Arm drags work from Referee too.
@@ -143,7 +143,7 @@ It's an important thing to humble yourself or else you deny yourself training in
 
 This is how keenan learns, try new things against worse people.
 
-On "Just getting up" from darces and arm triangles
+On "Just getting up" from darces and arm triangles (darce turn in, arm triangle ball up and turn away and invert)
 Turtle to tripod
 side bottom - get under them, stand
 If someone is going for a darce by pulling my arm I can just get up
@@ -157,6 +157,10 @@ Arm Triangle: if they're on the side:
 	Because I'm on my side digging my toes into the floor they can't pull me down again
 	Roll away and pull my bottom leg underneath me. I'm not sweeping them, I'm moving myself. The roll away almost looks like a gramby, you're curling up and inverting
 Mounted Arm Triangle: Go the other way, bridge over shoulder, get your arm to the ground and go baby bridge
+> [!note]
+> The direction in which you can stand up is also dictated by which arm is free because you need to post on the ground
+> In a darce it's the bottom arm so you must turn into them to stand
+> In an arm triangle it's the far arm so you must turn away to stand
 
 North south Kimura
 ![[Pasted image 20231028114552.png|360]]
