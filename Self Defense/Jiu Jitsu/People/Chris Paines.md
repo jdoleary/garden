@@ -115,7 +115,7 @@ Create space all of the time and they will have a much harder time submitting yo
 - Whoever's hips are highest is **on top** or will inevitably become the one of top.
 - In order to **get up** you must have a free bottom leg
 	- This applies to taking the back / getting behind your opponent and getting up when playing guard
-- Alignment is the brother of balance, is it what allows you to maintain balance
+- Alignment is the brother of balance, is it what allows you to maintain balance ^3226a9
 	- Imagine triangle on the ground made by lines connecting the points of your body in contact with the ground.  This is your [[base]].
 	- Your base can only be compromised by pushing you over an edge, not a corner, of that shape.
 	- Your base can only be compromised by pushing you over an edge, not a corner, of that shape.

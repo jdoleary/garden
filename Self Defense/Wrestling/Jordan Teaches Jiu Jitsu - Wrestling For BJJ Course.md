@@ -126,3 +126,12 @@ Technique for getting underhook:
 - Slide, keep the wrist and get the underhook (picture 2)
 ![[Pasted image 20231027090846.png|360]]
 ![[Pasted image 20231027090936.png|360]]
+## Single Leg
+[Video](https://courses.jordanteachesjiujitsu.com/courses/take/wrestling-for-bjj/lessons/49632828-outside-single-leg-finishing-mechanics)
+Once you get here you stop pushing.  Continued pushing allows for counter attacks such as Uchi Mata.
+![[Pasted image 20231108101421.png|360]]
+Detail: If you pick the leg up, hold the heel and cover the toes so they can't just kick out:
+![[Pasted image 20231108101922.png|360]]
+When you're going for the trip, don't "go to them" because you'll compromise your stance if you do. Instead, "bring them to you" by lifting his knee which forces his foot closer
+![[Pasted image 20231108101958.png|360]]
+If they grab on to your collar for balance, you can grab their elbow over the top with your near hand and circle away to make them fall (timestamp 6:15).  It's very similar to Running the Pipe but your holding onto their heel and elbow instead.

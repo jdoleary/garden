@@ -1,8 +1,9 @@
 ---
 hidden: true
 ---
-- 2023-09-21
-	- 
+- 2023-11-08 ^observations-on-the-big-3
+	- I've been working on [[Balance, Posture and Alignment]] and I recorded tape of myself rolling and couldn't help but notice every time I fell to my hip it was because I lacked proper alignment.  My back leg was perpendicular to my opponent (not pointing at him) and so he was able to drive me over that edge.
+	- When I was a white belt, I didn't "get" hand-fighting.  I kind of just thought it was something I needed to get out of the way so I could get to the "actually important stuff", but now I understand that hand-fighting is **how** combatants establish dominant position and all else flows from there.
 - 2023-05-11
 	- Big realization today: I was watching another [[Henry Akins]] video about escaping side control by being on your side and keeping your arm down and I realized I missed a huge detail.  You need to be turned towards them! Not away.  This brings me back to the concept that [reality has a suprising amount of detail](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail).  If I show you a triangle inside a square and ask you to describe it to a friend who hasn't seen it so they may draw it, there is a good chance that the instructions you'll give them will allow them to draw thousands of square circle combinations that meet your instructions but do not match the original picture.  This is because when you see the image you remember "triangle inside square", but you may miss important details that distinguish it from other possible combinations of that description.  "What direction is the triangle facing?", "What angle?", "Does the triangle intersect the sides of the square on each point", etc, etc, etc.  This same effect is at play when learning Jiu Jitsu.  It takes a long time to capture all the relevant details, many which are unspoken because there are so many details it is difficult to call them all out.
 - 2023-05-07
