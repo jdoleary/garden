@@ -1,3 +1,7 @@
+---
+created: 2023-10-11T12:15
+updated: 2023-11-19T07:11
+---
 # Submit
 
 Submit is the stage in the [[Funnel of Control]] where you have established dominant position via the [[Control]] stage and are ready to give up a small amount of control in order to pursue a submission.

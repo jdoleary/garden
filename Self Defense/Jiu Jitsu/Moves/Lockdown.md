@@ -1,3 +1,7 @@
+---
+created: 2023-10-11T12:07
+updated: 2023-11-19T07:10
+---
 [From Whip Up right to arm under leg](https://youtu.be/tcS7oBdpRW0?t=207)
 Don't fight your own intention, if you are trying to bring their body up towards your head you shouldn't stretch your legs out because that will bring them back down [link](https://youtu.be/Y0D5lpXsf1U?t=361)
 

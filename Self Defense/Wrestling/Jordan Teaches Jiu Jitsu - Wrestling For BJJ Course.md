@@ -3,6 +3,8 @@ tags:
   - course
 link: https://courses.jordanteachesjiujitsu.com/courses/wrestling-for-bjj
 author: Jordan Preisinger
+created: 2023-10-26T10:04
+updated: 2023-11-08T10:30
 ---
 # Conceptual Overview: Stance
 The "same side" arm of the lead leg should always protect the lead leg.

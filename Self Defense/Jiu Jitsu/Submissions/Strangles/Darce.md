@@ -1,3 +1,7 @@
+---
+created: 2023-10-11T12:07
+updated: 2023-11-19T07:12
+---
 - [Ruotolo Darce at 171](https://youtu.be/MWMNq8DGHyo?t=171) ^0d58b1
 	- Once you have it locked up, point your elbow, don't roll over it and then pull up with the other arm to crush
 	- Using the blade of your wrist is important too (don't get it too deep); keep the blade of your wrist on their neck.  He even wiggles the blade to find the right spot on the neck

@@ -3,6 +3,8 @@ author: Jiichi Watanabe, Lindy Avakian, and Neil Ohlenkamp
 link: https://www.amazon.com/dp/B09KS641CW
 thumbnail: assets/book-cover-science-of-judo.jpg
 summary: A Guide to the Principles of Grappling and Throwing
+created: 2023-10-11T12:07
+updated: 2023-11-19T07:09
 ---
 ![[book-cover-science-of-judo.jpg]]
 ## Quotes

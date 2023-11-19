@@ -1,3 +1,7 @@
+---
+created: 2023-10-11T12:07
+updated: 2023-11-19T07:11
+---
 [[Funnel of Control]]:
 - Body Position. [[Defense]]: Keep them down by your hips
 - Underhooks / Frames / Arm position

@@ -1,3 +1,7 @@
+---
+created: 2023-10-26T11:38
+updated: 2023-11-08T10:31
+---
 Inside Position is
 	- The space from armpits to hips
 	- The back of the knees

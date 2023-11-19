@@ -1,4 +1,8 @@
-(See also [[Core Concepts#^the-bonsai-tree]])
+---
+created: 2023-11-08T09:58
+updated: 2023-11-19T07:12
+---
+,(See also [[Core Concepts#^the-bonsai-tree]])
 ## Balance
 work in progress
 ## Posture

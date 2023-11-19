@@ -1,3 +1,7 @@
+---
+created: 2023-10-11T12:07
+updated: 2023-11-19T07:12
+---
 
 [Nicky Ryan Toe Hold](https://youtube.com/clip/UgkxbS2f1nE7MUrIOmYAUcBV9DURycXdpIsK)
 	- Go "elbow deep" on the achilles

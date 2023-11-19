@@ -1,3 +1,7 @@
+---
+created: 2023-10-11T12:07
+updated: 2023-11-19T07:11
+---
 - ["We want to operate with Pull dominant kimuras not push dominant kimuras" - John Danaher](https://youtu.be/p-6lmaseoGI?t=107)
 	- The majority of the force is in one where we immobalize the arm and finish with a pull
 	- People *tend* to work perpendicualarly to their opponent (not good)

@@ -1,3 +1,7 @@
+---
+created: 2023-10-27T09:03
+updated: 2023-11-19T07:14
+---
 All of my notes, here and in journals, are my attempt to refine my philosophy of how I should live which in-turn determines who I should and will become.
 
 I try to refine the idea but it grows and grows; however, I will try to establish the trunk and every other page in this garden will dive into the complexity of various branches and leaves.

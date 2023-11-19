@@ -1,3 +1,7 @@
+---
+created: 2023-10-28T12:08
+updated: 2023-11-19T07:13
+---
 The ideal underhook position owns all 3 control points: Inside Thigh, Inside Head, Deep Under Hook
 ![[Pasted image 20231027120804.png|360]]
 The further your head gets away from your underhook, the weaker you get

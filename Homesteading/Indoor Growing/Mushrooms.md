@@ -1,3 +1,7 @@
+---
+created: 2023-10-23T12:36
+updated: 2023-11-19T07:09
+---
 
 ### Bucket Method
 ![](https://www.youtube.com/watch?v=aZMzKotFrkE)

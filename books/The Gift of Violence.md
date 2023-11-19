@@ -3,6 +3,8 @@ author: Matt Thornton
 link: https://www.amazon.com/dp/B0BQRWJKKL
 thumbnail: assets/book-cover-gift-of-violence.jpg
 summary: Practical Knowledge for Surviving and Thriving in a Dangerous World
+created: 2023-10-11T12:07
+updated: 2023-11-19T07:09
 ---
 ![[book-cover-gift-of-violence.jpg]]
 ## Quotes

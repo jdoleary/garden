@@ -1,3 +1,7 @@
+---
+created: 2023-10-27T08:25
+updated: 2023-11-19T07:13
+---
 
 Most people don't realize, the purpose of a Collar Tie is the **push** with your wrist on their clavicle/trap region.  Then when he "puts the breaks on", then you pull.
 You don't want to just grab a Collar Tie and hold because then his back gets all stiff and it's now impossible to [[Snap Down]].

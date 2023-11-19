@@ -1,5 +1,7 @@
 ---
 hidden: true
+created: 2023-10-11T12:07
+updated: 2023-11-08T10:31
 ---
 - Survive: Memorize the goals and key movements of the **Positions**
 	- Knowing how to survive will eventually reveal the opportunity to escape because it keeps you from slipping further down the funnel of control

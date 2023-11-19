@@ -1,3 +1,7 @@
+---
+created: 2023-10-23T12:36
+updated: 2023-11-19T07:12
+---
 - [Guillotine - Critical Finish points by Garry Tonon](https://www.youtube.com/watch?v=lYhqGFkz7Ew)
 	- Almost every strangle has a crushing / compressing force. ^083aea
 	1. Bring your arms up

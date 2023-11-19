@@ -1,3 +1,7 @@
+---
+created: 2023-10-11T12:07
+updated: 2023-11-19T07:12
+---
 - [Henry Akins](https://youtu.be/RiIBK-moBdE)
 	- Key details
 		- Feet close to your hips for maximal bump

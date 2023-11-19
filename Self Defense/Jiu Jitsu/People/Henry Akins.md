@@ -1,3 +1,7 @@
+---
+created: 2023-10-11T12:07
+updated: 2023-11-19T07:10
+---
 
 
 Rickson: you want to develop the ability to get out when you want. Not having to wait for their mistake

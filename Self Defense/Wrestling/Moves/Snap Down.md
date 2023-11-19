@@ -1,3 +1,7 @@
+---
+created: 2023-10-26T10:26
+updated: 2023-11-19T07:13
+---
 > If you are having difficulty snapping your opponent down, its most likely due to your timing of the push-pull
 > \- [[Jordan Preisinger]]
 

@@ -1,3 +1,7 @@
+---
+created: 2023-10-11T12:07
+updated: 2023-11-19T07:11
+---
 - Get the elbow inside the line of your hips (required for entry)
 - Elbow and shoulder relationship
 	- "I wont even try unless I can get their elbow away from their body"

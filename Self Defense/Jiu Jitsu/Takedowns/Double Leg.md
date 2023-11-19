@@ -1,3 +1,7 @@
+---
+created: 2023-10-11T12:07
+updated: 2023-11-19T07:12
+---
 - [No Gi Double Leg Takedown](https://youtu.be/7igJLHdcg1I) by [[Lachlan Giles]]
 	- You're momentum should be going UP not down or else you'll get easily sprawled on, this is why it's important to drop your level
 	- [practise](https://youtu.be/7igJLHdcg1I?t=75)

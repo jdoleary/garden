@@ -1,3 +1,7 @@
+---
+created: 2023-10-11T12:07
+updated: 2023-11-19T07:10
+---
 - [How to Defend Everything](https://youtu.be/BWitv9AKoNU)
 - Who ever is in control is the person who exists between the other person's knees and armpits
 - [Sometimes your defensive action gives them what they want](https://youtu.be/BWitv9AKoNU?t=1715)

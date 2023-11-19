@@ -1,3 +1,7 @@
+---
+created: 2023-10-11T12:07
+updated: 2023-11-08T10:31
+---
 
 - Timing beats speed.
 	- Be intentionally slow which will force you to master speed.

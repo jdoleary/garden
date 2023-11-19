@@ -1,3 +1,7 @@
+---
+created: 2023-10-11T12:07
+updated: 2023-11-19T07:10
+---
 - Wisdom ^752b9a
 	- Every time you get onto your side, your back is also exposed: https://youtu.be/R1gMx3BFid4?t=205
 	- Higher hips win the scramble

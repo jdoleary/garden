@@ -1,3 +1,7 @@
+---
+created: 2023-10-27T12:34
+updated: 2023-11-19T07:14
+---
 - [ ] Proper Stance
 - [ ] Proper [[Under Hook]] Position
 - [ ] Obtaining [[Under Hook]]

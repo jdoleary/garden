@@ -1,3 +1,7 @@
+---
+created: 2023-10-11T12:15
+updated: 2023-11-19T07:11
+---
 # Transition
 
 When neither opponent has a control advantage or control is being reversed, they are in the transition stage.  This includes scrambles, sweeps, takedowns.

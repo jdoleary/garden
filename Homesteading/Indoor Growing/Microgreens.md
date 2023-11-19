@@ -1,4 +1,8 @@
-![](https://www.youtube.com/watch?v=dtvuMNVLISo)
+---
+created: 2023-10-23T12:36
+updated: 2023-11-19T07:09
+---
+ ![](https://www.youtube.com/watch?v=dtvuMNVLISo)
 
 ## Starting Cost
 | Item | Price | Amount / Details |

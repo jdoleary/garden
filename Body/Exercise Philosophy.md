@@ -1,6 +1,8 @@
 ---
 tags:
   - philosophy
+created: 2023-10-11T12:30
+updated: 2023-11-19T07:09
 ---
 
 # Exercise Philosophy

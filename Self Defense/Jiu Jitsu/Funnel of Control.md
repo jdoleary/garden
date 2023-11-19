@@ -1,6 +1,8 @@
 ---
 tags:
   - philosophy
+created: 2023-10-11T12:07
+updated: 2023-11-08T10:30
 ---
 Greater control at the top, less control at the bottom.
 

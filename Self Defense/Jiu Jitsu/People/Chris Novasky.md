@@ -1,3 +1,7 @@
+---
+created: 2023-10-11T12:07
+updated: 2023-11-19T07:10
+---
 Pronate your wrist when you have an overhook to lock it down and prevent them from pulling free ^wisdom
 
 2022-10-15:

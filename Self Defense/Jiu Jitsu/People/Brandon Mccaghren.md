@@ -1,5 +1,7 @@
 ---
 thumbnail: https://res.cloudinary.com/display97/image/upload/q_auto,fl_lossy,f_auto/5233/Brandon-Mccaghren-120152.jpg
+created: 2023-10-11T12:07
+updated: 2023-11-19T07:10
 ---
 ![Brandon Mccaghren Portrait|200](https://res.cloudinary.com/display97/image/upload/q_auto,fl_lossy,f_auto/5233/Brandon-Mccaghren-120152.jpg)
 - Wisdom ^bmacwisdom

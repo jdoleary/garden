@@ -1,3 +1,7 @@
+---
+created: 2023-10-11T12:07
+updated: 2023-11-19T07:10
+---
 - [Pull with your head, not with your shoulder](https://youtu.be/p-6lmaseoGI?t=373)
 - Rear Naked Choke details https://youtube.com/shorts/oYDe-hrazL8?feature=share
 - If you're trying to control an opponent's limb, keep it attached to your chest [example bmac](https://youtu.be/VFWb7SWF_PE?t=100) rather than letting your body go in the direction you want it to and pulling with your arms.  Applies to kimura, armbar, ![[Armbar#^652cd3]], etc ^connection

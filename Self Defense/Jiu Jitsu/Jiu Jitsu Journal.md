@@ -1,5 +1,7 @@
 ---
 hidden: true
+created: 2023-10-11T12:07
+updated: 2023-11-08T10:31
 ---
 - 2023-11-08 ^observations-on-the-big-3
 	- I've been working on [[Balance, Posture and Alignment]] and I recorded tape of myself rolling and couldn't help but notice every time I fell to my hip it was because I lacked proper alignment.  My back leg was perpendicular to my opponent (not pointing at him) and so he was able to drive me over that edge.

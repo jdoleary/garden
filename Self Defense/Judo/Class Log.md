@@ -1,5 +1,7 @@
 ---
 hidden: true
+created: 2023-10-27T09:03
+updated: 2023-11-19T07:13
 ---
 - 2022-12-17
 	- Key concept: always walk on the ball of the toes.  Judo is on the toes

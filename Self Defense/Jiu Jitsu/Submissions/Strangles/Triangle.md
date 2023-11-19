@@ -1,3 +1,7 @@
+---
+created: 2023-10-11T12:07
+updated: 2023-11-19T07:12
+---
 ![[Brandon Mccaghren#^6cc5d9]]
 [Knee points in at the crotch, knee is lower than his ear](https://youtu.be/VA6zjDN690s?t=270)
 
