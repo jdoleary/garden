@@ -19,11 +19,10 @@
 
 body {
     font-size: 18px;
-    background-color: #ffffff;
     font-family: 'Verdana', 'Helvetica', sans-serif;
     font-display: optional;
-    margin: 0;
-    background-color: var(--background);
+    /* body should have a margin on mobile so text isn't squished up againt the side*/
+    margin: 1em;
     color: var(--text);
 }
 /* Holy Grail Layout styling */
@@ -35,7 +34,6 @@ header {
     grid-row: 1;
     /* Align the column with the article */
     grid-column: 2;
-    padding:1em;
     margin-bottom: 1em;
 }
 header a {
@@ -79,8 +77,6 @@ header a:hover {
 #article-header {
     grid-row: 2;
     grid-column: 2;
-    /* Align with article */
-    padding:0 1em;
 }
 
 #article-header.hide-title {
@@ -93,16 +89,16 @@ nav {
     grid-row: 3;
     grid-column: 1;
 }
-.type-homepage #nav-aligner {
-    /* Align with top of homepage content */
-    padding-top:0;
+.type-page #nav-aligner {
+    /* Align with top of page content */
+    padding-top:1em;
 }
 #nav-aligner {
     /* Sticky side nav */
     position:sticky;
     top:0;
 
-    padding-top:1em;
+    padding-top:0;
     padding-right:1em;
     padding-left:1em;
     /* Keep the nav right aligned */
@@ -128,6 +124,8 @@ nav {
         display: grid;
         grid-template-rows: auto auto 1fr auto;
         grid-template-columns: 1fr 800px 1fr;
+        gap: 1em;
+        margin:0;
     }
 }
 @media screen and (min-width: 1180px) {
@@ -145,8 +143,6 @@ article {
     /* justify-content:space-between keeps the article footer at the bottom of the screen even if the content doesn't
     fill the whole screen. */
     justify-content:space-between;
-    padding: 0 1em 1em 1em;
-    border-radius: 6px;
     margin-bottom: 1em;
     background-color: #ffffff;
     width:100%;
@@ -174,13 +170,10 @@ nav summary:hover {
 }
 nav a {
     color:#999;
-    border-left:2px solid #999;
-    padding-left:0.5em;
 }
 nav a:hover {
     text-decoration: none; /* no underline */
     color: var(--primary);
-    border-left:2px solid var(--primary);
 }
 
 footer {
@@ -446,11 +439,24 @@ li.task-list-item ul {
 }
 /* End Special checkbox styling */
 
+blockquote {
+    border-left:4px solid var(--accent);
+    padding:1em;
+    margin:0;
+}
 /* Start of Callout styling */
 /* ref: https://help.obsidian.md/Editing+and+formatting/Callouts */
 .callout {
     border-radius:4px;
     padding:1em;
+}
+blockquote.callout {
+    /* Override default blockquote styling */
+    margin: 0;
+    border:0;
+}
+.callout-title-inner {
+    margin-bottom: 1em; /* Match .callout padding */
 }
 .callout[data-callout="info"],
 .callout[data-callout="todo"] {
