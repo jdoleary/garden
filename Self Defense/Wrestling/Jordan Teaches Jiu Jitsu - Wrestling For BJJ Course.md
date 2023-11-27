@@ -23,7 +23,7 @@ If your shoulders are behind your knees, you can easily be pushed back.
 Neutral spine = strong back and strong stance
 Do not round your head or spine
 
-> [!tip: The Goal]
+> [!tip] The Goal
 Take your opponent our of their strong stance without compromising your strong stance.
 This is achieved by grip fighting as well as manipulating your opponent's distribution of their weight.
 
@@ -32,7 +32,7 @@ Example: Moving their weight to their back leg makes their lead leg light
 ### Out of Position
 "To have your defense incorrectly positioned to be able to defend your opponents attacks "
 - Being too postured upright where you don't have your arms and head able to defend
-- Taking and underhook without head position
+- Taking and [[Under Hook]] without head position
 - Giving up [[Inside Thigh]] position
 - Not immediately recovering to a proper stance after a failed shot
 
