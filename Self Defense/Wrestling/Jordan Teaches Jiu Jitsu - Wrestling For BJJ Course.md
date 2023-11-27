@@ -4,7 +4,7 @@ tags:
 link: https://courses.jordanteachesjiujitsu.com/courses/wrestling-for-bjj
 author: Jordan Preisinger
 created: 2023-10-26T10:04
-updated: 2023-11-21T12:45
+updated: 2023-11-27T12:31
 ---
 # The Primary Concept
 A dominant stance consists of:
