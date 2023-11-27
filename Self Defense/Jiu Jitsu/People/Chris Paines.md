@@ -187,4 +187,34 @@ The control joint is the most important to control.  The control joint dictates 
 
 Free the hip vs control the hip IS the leglock shootout
 If I ask you to break a stick you have to control both sides of it.
-- [ ] Record footage of myself rolling
+- [x] Record footage of myself rolling
+---
+There has to be a posture break before you can do a successful attack.
+	Must keep posture and alignment, keep a straight back. Anytime someone gets you they broke your posture first
+Just before I got stuck in anything, my neck rounds.
+Try it offensively and defensively.  Keep mine, break theirs.  With a broken posture they find it very hard to attack and feel very vulnerable at the same time.
+**If someone is above your kneecap they can twist your knee.**
+In terms of getting pushed over, there has to be a line between your feet pointing at them, not that the legs themselves have to point, but the line between them.
+Posture and alignment are the same thing...
+It's just a game of power.  Alignment is required to generate power.  Power is posture + strength + connection to the floor (direction of generating power)
+
+RNC starting with arm bent is like cutting paper with scissors without opening them.  If you start arm triangle with a bent arm it's like trying to snip paper with closed scissor.  The point is: establish good connection with the most potential leverage first.
+
+If you tie someone's shoulder to their ears you can take mount as slow as you want - Gordon Ryan
+
+Darce: If you elbow them in the armpit you can kimura them and turn out.
+If you can make your shoulders and posture wide enough they shouldn't be able to connect their arms.
+
+### TODO
+Spend an entire round where I'm just focusing on keeping my posture like I have a book balancing on my head.  Aware that my spine has to be aligned.  Keep my shoulders back and down like I'm rowing. If my head gets pulled down, elevate my hips but don't allow my spine to bend.  Do one round liek this where I don't care if I win or lose, just focus on the posture.  Pretend it's your first day, you don't know any techniques you're only focusing on posture that way your mind isn't split.
+The reason I'm not being disciplined with posture is that I'm thinking about too much.
+
+Everything I do, don't think about the tecniques in general, think about how I should break their posture.  Attack their posture relentlessly.
+What do you do as the person on top... Posture break - relentlessly.
+
+It's only through lack of discipline that you lose your posture.  It's always the most disciplined people that will succeed.  Don't get emotional and desparate and sacrifice discipline.
+
+TODO: watch the videos back and message when the posture goes wrong.
+
+
+In terms of escaping referee.  Think of control as 3D and 2D.  if they wrap all the way around you they have 3d control, if they are only on either side of you they have 2D control and there's a direction you can escape.  In Ashi garami, if the knee isn't pinching to the foot there's a "hole" you can escape out of.  Same goes for when they don't have 3D control, just move in the direction that their not preventing you from moving.
