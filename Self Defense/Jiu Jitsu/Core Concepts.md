@@ -2,7 +2,7 @@
 tags:
   - philosophy
 created: 2023-10-11T12:07
-updated: 2023-11-08T10:30
+updated: 2023-11-19T15:15
 ---
 
 If you get submitted...
@@ -31,6 +31,7 @@ Jiu Jitsu (and combatives for that matter) are like a Bonsai Tree:
 - Each smaller branch is a category of techniques
 - The larger branches are positions
 - ...and the trunk is [[Balance, Posture and Alignment]]
+
 If you cut off a branch (for example, [[Side Control]]) then all of the leaves on that branch die.  There is no application of a position's techniques until you arrive in (or someone puts you in) that position.
 If you cut the tree at its trunk, then ALL of the leaves die.  This is critical.  If someone cannot break your balance, posture and alignment then they cannot get you to the ground and none of their techniques apply.  All submissions, sweeps, transitions, takedowns rely on breaking one or more of those three.
 

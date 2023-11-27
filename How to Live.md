@@ -1,13 +1,13 @@
 ---
 created: 2023-10-27T09:03
-updated: 2023-11-19T07:14
+updated: 2023-11-19T15:14
 ---
 All of my notes, here and in journals, are my attempt to refine my philosophy of how I should live which in-turn determines who I should and will become.
 
 I try to refine the idea but it grows and grows; however, I will try to establish the trunk and every other page in this garden will dive into the complexity of various branches and leaves.
 ### Maximal Agency
 Knowing I have and behaving with agency is key to becoming who I ought to be.  It empowers me to look at any situation or event from the lens of "what I can do in response" which in turn gives me as much power as is available to myself to act and change things.  This means **taking responsibility** as much is as reasonably possible.
-## Physical Health
+## Physical Health[]()
 Health is fundamental and my greatest advantage.  My body performs and thinks better when I am healthy (both long-term health and short term health).  I am slower to anger, clearer or mind, more reasonable and rational and make better decisions when I am:
 - Well Rested
 - Exercised and Nutritiously Moved
