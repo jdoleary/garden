@@ -4,8 +4,15 @@ tags:
 link: https://courses.jordanteachesjiujitsu.com/courses/wrestling-for-bjj
 author: Jordan Preisinger
 created: 2023-10-26T10:04
-updated: 2023-11-08T10:30
+updated: 2023-11-21T12:45
 ---
+# The Primary Concept
+A dominant stance consists of:
+- Inside Head Position (and good, strong posture)
+- An Underhook
+- Inside Thigh Position
+If you are ever in a situation where you don't know what to do, fight to establish these three (but not necessarily all at the same time)
+
 # Conceptual Overview: Stance
 The "same side" arm of the lead leg should always protect the lead leg.
 If you reach with the lead arm, it is no longer defending, and your opponent can post on the elbow to gain access to your lead leg
