@@ -218,3 +218,66 @@ TODO: watch the videos back and message when the posture goes wrong.
 
 
 In terms of escaping referee.  Think of control as 3D and 2D.  if they wrap all the way around you they have 3d control, if they are only on either side of you they have 2D control and there's a direction you can escape.  In Ashi garami, if the knee isn't pinching to the foot there's a "hole" you can escape out of.  Same goes for when they don't have 3D control, just move in the direction that their not preventing you from moving.
+
+---
+- Combat base is essentially the same as standing down block
+- Standing passing is the same as guard passing: through, over, under, around
+- If you're going to attach to someone, attach with your belly button or else you're breaking your own posture to take them down
+- The best way of learning takedowns is doing mat returns
+- Three phases of takedown:
+	- Good posture
+	- hand fight to get to the core
+	- execute the takedown
+- To learn takedowns do it from the ground.  Just #3, mat return relentlessly
+- Whoever is sitting behind the other's hip gets the takedown.
+- If you're holding onto their wrist, then they don't have 3D control and there's a way for you to get out
+- You can hold onto someone's hand so they can't hold onto you
+
+## Protecting Inside Position
+- Phase 0: Maintain Posture
+- Phase 1: Close the door (inside position: arm pits to hips, neck to shoulder)
+- Phase 2: Hold the hand that would go in the door ("Kill them on the lawn")
+
+---
+## 2024-01-28
+
+Handfighting:
+Their 3d control only works if they beat you on the handfight.
+Under, over, around, and through (for elbows and knees).
+Postmortem the handfights with someone 
+- Martial Arts and Philosophy book
+	- State of no mind
+		- you can postmortem but not narrate in the moment if you are of no mind
+		- when postmorteming you're explaining the ideas to yourself
+		- stop them and go "What happened there?"
+		- Chris: "You're only capable of doing the no mind things because you fully understand"
+Standing hand fighting is like open guard, same objectives.  Feet fighting, hand fighting.
+What is success in a hand fight?
+	 Getting past the hands and elbows to get access to the spine?
+	 How? Under, over, around and through.
+
+If you can't get underneath someone's elbows, don't double leg.
+Get a takedown associated with each (U, O, A, T).
+
+Chris's whole gym has great wrestling but does no explicit takedown training.  Because they handfight and get to the spine and spend time there.
+
+Work on handfighting consciously and read what they are doing and what options they are giving me.
+
+Training with people who are less skilled gives you great opportunity to learn because they give you one problem to solve at a time, whereas peers or better opponents will shut you down before you can learn.  Train what you don't know with those who are less good so you can experiment and progress.
+
+The "blue belt curse" is what you have to break to get to purple belt.  Don't be afraid of loss to lower belts, you have to experiment to improve.  Be willing to experiment and lose to white belts.
+Play the stuff that you suck at on bad players and postmortem it and that's how you improve with techniques you're not good at. "Get over yourself".
+Identify the small failures.  It's a snowball that builds to a moment, to a takedown, to a submission.  There are so many moments, so many small failures.
+
+Just get underneath their arms and you'll find double and single legs.
+Get your belly button on them and push them over, tie the knees together.
+Try faking the side step (what you're good at) and going into a double leg.
+
+If you handfight their elbow on the standup, they're never going to flank you.
+
+Attack the periphery to access the spine, once you control the spine, then you can submit the periphery - souders or danaher
+
+What is handfighting, it's getting past the elbows, that's the objective.  Over Under Around and Through.
+
+All the grips that you do with your legs / feet have a sibling position with your hand grips.  Closed guard is just double unders, half guard is just a single leg.
+There's always a handfight, even in a doubleleg, you're getting under the elbows, the handfight was invisible.
