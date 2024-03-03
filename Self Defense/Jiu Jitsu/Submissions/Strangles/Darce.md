@@ -19,3 +19,10 @@ updated: 2023-11-19T07:12
 - Detail: Don't post your elbow on the ground, that will make you lose the space around the neck. https://youtu.be/KZY4ectyvjo?t=211
 - Detail: [Pull in it tight - elbows to your chest, not up high](https://youtu.be/KZY4ectyvjo?t=165) This is one way to close the space in the arm triangle, to lower your elbows to your chest.  You have more strength here and the gap is smaller
 - Incredible detail for shallow drace with Rener & Ryron https://youtu.be/8Idnp8DpSHU
+
+
+## Escape
+- [Roll to the side you're getting choked on](https://youtu.be/j_UZfZNFElg?si=ajVc9XzJDjUMTQkS&t=86)
+- [Malachy Friedman](https://www.youtube.com/watch?v=ADi3xCVmPA8)
+- [Teach me Grappling](https://youtu.be/B8Ri47JCbpk?si=trvUR9-oVCLqpbWA&t=168)
+	- Back of the head to the chest saves you from the choke as opposed to ear to the chest which is what they want

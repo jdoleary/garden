@@ -281,3 +281,61 @@ What is handfighting, it's getting past the elbows, that's the objective.  Over 
 
 All the grips that you do with your legs / feet have a sibling position with your hand grips.  Closed guard is just double unders, half guard is just a single leg.
 There's always a handfight, even in a doubleleg, you're getting under the elbows, the handfight was invisible.
+
+## 3/2/24
+Thai clinch works because you own the centerline
+Address collar tie with "over under around or through"
+
+The 4 distances
+- Too far to do anything
+- hand fighting distance (as soon as you can grab their hands)
+- "over under around or through" the elbows
+- control of the spine (glue your bellybutton to their body)
+
+Think of the belly button as a reference in all "distance 4" scenarios (double leg for example). Fixing belly button placement will fix head placement.
+
+If you're locked up in a mutual collar tie, fight for centerline
+"centerline control"
+
+You can break their posture by twisting it or bending it
+
+The overemphasis of one (O, U, A, T), leads to another.
+
+
+---
+Responding to the leg weave. if I already lost, they got past my knees, then I need to go defensive
+
+You don't push something that's pushing against you.  You don't push a static object.  If is impossible for top side person to move with out taking their weight off.  Like to go to mount, they have to take their leg off the ground and for that brief moment, the leg is weightless.
+He'll blindfold them and do the old wing shun kung fo drill.
+If you're too tense to block the punch they get hit, but if they relax and feels it, they'll block every time.
+So think of this in side control, if I'm framing and tense I wont feel it coming, but if i relax I will.
+IF YOURE TENSE YOU WONT FEEL THEIR INTENTIONS.  YOU MUST BE RELAXED TO READ THEM.
+You can do this blindfolded, it helps with escapes.
+
+---
+Darce escapes:
+Grab the wrist and keep the shoulder down.
+As soon as they relax their grip in any way, **elbow them in the armpit** and follow them out the back door.
+Never go elbow deep in an anaconda because they can americaana you just by grabbing the arm and turning.
+Put a lot of pressure in their shoulders: darce -> kimura, anaconda -> americana
+arm in guillotine: put your shoulder on their sternum and keep them flat on their back
+guillotines only work when the attacker is flat on their side
+
+All 3 of these arm triangles are only available because they got access to my armpit.  Those chokes aren't accessible from "positions", they're accessible from "arms being opoen"
+
+elbows in, shoulderblades back (for posture).  Reach just as far as your shoulderblade will let you.
+
+When you reach (like from half guard), reach with a back palm (pronated) to keep your shoulder stronger (like Chris Novasky showed for retaining overhook). It keeps them from flattening you out.
+When you feel this, it'll blow your mind.  Reach back palm and there's no collapsing.
+This applies to defending darces too.
+
+Homework: 
+- Belly button reference
+- 4 distances when it comes to elbow protection
+	- game: jump to defense as soon as they get past your kness.  This should be a trigger.
+- The kung fo exercise.  Play with moving when they do.  You can't move forwards without taking weight off of one leg.  Just wait for them to move and then sweep them and knock them over.  Don't try to sweep a static person.
+
+When you have a collar tie, use a "U" grip instead of a "C" grip. The difference is the wrist bending and being a part of the grip.  If gives you more directions to apply force.  "C" grip can only go down and acrsoss, "U" grip: down, across,  and back into a guillotine.  If they're doing a collar tie on me, come underneath and flick the U grip.
+You've gained access to the spine, maximize it.  You got access to the spine, bellybutton on and shoulderblades back; maximize it.
+
+Shoudlers back and down, like yoga cobra.  Old school wrestlers keep their shoulders back, they can't reach cause they've got their shoulders short.
