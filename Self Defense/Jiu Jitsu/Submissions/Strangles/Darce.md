@@ -1,6 +1,6 @@
 ---
 created: 2023-10-11T12:07
-updated: 2023-11-19T07:12
+updated: 2024-03-05T16:35
 ---
 - [Ruotolo Darce at 171](https://youtu.be/MWMNq8DGHyo?t=171) ^0d58b1
 	- Once you have it locked up, point your elbow, don't roll over it and then pull up with the other arm to crush

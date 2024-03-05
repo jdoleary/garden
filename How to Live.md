@@ -1,6 +1,6 @@
 ---
 created: 2023-10-27T09:03
-updated: 2023-11-19T15:14
+updated: 2024-03-05T16:35
 ---
 All of my notes, here and in journals, are my attempt to refine my philosophy of how I should live which in-turn determines who I should and will become.
 

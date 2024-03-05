@@ -1,6 +1,6 @@
 ---
 created: 2023-10-11T12:07
-updated: 2024-03-05T16:40
+updated: 2024-03-05T16:41
 ---
 - [How to Defend Everything](https://youtu.be/BWitv9AKoNU)
 - Who ever is in control is the person who exists between the other person's knees and armpits
@@ -352,7 +352,7 @@ You can do this blindfolded, it helps with escapes.
 Darce escapes:
 Grab the wrist and keep the shoulder down.
 As soon as they relax their grip in any way, **elbow them in the armpit** and follow them out the back door.
-Never go elbow deep in an anaconda because they can americaana you just by grabbing the arm and turning.
+Never go elbow deep when attacking with an anaconda because they can americaana you just by grabbing the arm and turning.
 Put a lot of pressure in their shoulders: darce -> kimura, anaconda -> americana
 arm in guillotine: put your shoulder on their sternum and keep them flat on their back
 guillotines only work when the attacker is flat on their side
