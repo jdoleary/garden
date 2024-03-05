@@ -6,7 +6,7 @@ summary: Practical Knowledge for Surviving and Thriving in a Dangerous World
 created: 2023-10-11T12:07
 updated: 2023-11-19T07:09
 ---
-![[book-cover-gift-of-violence.jpg]]
+![[Self Defense/Books/assets/book-cover-gift-of-violence.jpg]]
 ## Quotes
 > Once you make the decision that physical conflict is inevitable, or is the best option for avoiding an even worse outcome from a predator intent on hurting you, don’t give any warning.
 

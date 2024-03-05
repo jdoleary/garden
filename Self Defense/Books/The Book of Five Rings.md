@@ -6,7 +6,7 @@ summary: An ancient samurai's combat philosophy
 created: 2023-10-11T12:07
 updated: 2023-11-19T07:09
 ---
-![[book-cover-book-of-five-rings.jpg]]
+![[Self Defense/Books/assets/book-cover-book-of-five-rings.jpg]]
 ## Quotes
 > Generally speaking, the Way of the warrior is resolute acceptance of death.
 

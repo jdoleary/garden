@@ -6,7 +6,7 @@ summary: A Guide to the Principles of Grappling and Throwing
 created: 2023-10-11T12:07
 updated: 2023-11-19T07:09
 ---
-![[book-cover-science-of-judo.jpg]]
+![[Self Defense/Books/assets/book-cover-science-of-judo.jpg]]
 ## Quotes
  > The process of mastering judo begins when you can apply the principles appropriately, even in new and quickly changing conditions.
 

@@ -1,6 +1,6 @@
 ---
 created: 2023-10-11T12:07
-updated: 2023-12-28T12:37
+updated: 2024-03-05T16:40
 ---
 - [How to Defend Everything](https://youtu.be/BWitv9AKoNU)
 - Who ever is in control is the person who exists between the other person's knees and armpits
@@ -223,3 +223,155 @@ This applies to standing and ground.
 
 osoto gari gets you past the elbow on the inside.
 
+- [x] Record footage of myself rolling
+---
+There has to be a posture break before you can do a successful attack.
+	Must keep posture and alignment, keep a straight back. Anytime someone gets you they broke your posture first
+Just before I got stuck in anything, my neck rounds.
+Try it offensively and defensively.  Keep mine, break theirs.  With a broken posture they find it very hard to attack and feel very vulnerable at the same time.
+**If someone is above your kneecap they can twist your knee.**
+In terms of getting pushed over, there has to be a line between your feet pointing at them, not that the legs themselves have to point, but the line between them.
+Posture and alignment are the same thing...
+It's just a game of power.  Alignment is required to generate power.  Power is posture + strength + connection to the floor (direction of generating power)
+
+RNC starting with arm bent is like cutting paper with scissors without opening them.  If you start arm triangle with a bent arm it's like trying to snip paper with closed scissor.  The point is: establish good connection with the most potential leverage first.
+
+If you tie someone's shoulder to their ears you can take mount as slow as you want - Gordon Ryan
+
+Darce: If you elbow them in the armpit you can kimura them and turn out.
+If you can make your shoulders and posture wide enough they shouldn't be able to connect their arms.
+
+### TODO
+Spend an entire round where I'm just focusing on keeping my posture like I have a book balancing on my head.  Aware that my spine has to be aligned.  Keep my shoulders back and down like I'm rowing. If my head gets pulled down, elevate my hips but don't allow my spine to bend.  Do one round liek this where I don't care if I win or lose, just focus on the posture.  Pretend it's your first day, you don't know any techniques you're only focusing on posture that way your mind isn't split.
+The reason I'm not being disciplined with posture is that I'm thinking about too much.
+
+Everything I do, don't think about the tecniques in general, think about how I should break their posture.  Attack their posture relentlessly.
+What do you do as the person on top... Posture break - relentlessly.
+
+It's only through lack of discipline that you lose your posture.  It's always the most disciplined people that will succeed.  Don't get emotional and desparate and sacrifice discipline.
+
+TODO: watch the videos back and message when the posture goes wrong.
+
+
+In terms of escaping referee.  Think of control as 3D and 2D.  if they wrap all the way around you they have 3d control, if they are only on either side of you they have 2D control and there's a direction you can escape.  In Ashi garami, if the knee isn't pinching to the foot there's a "hole" you can escape out of.  Same goes for when they don't have 3D control, just move in the direction that their not preventing you from moving.
+
+---
+- Combat base is essentially the same as standing down block
+- Standing passing is the same as guard passing: through, over, under, around
+- If you're going to attach to someone, attach with your belly button or else you're breaking your own posture to take them down
+- The best way of learning takedowns is doing mat returns
+- Three phases of takedown:
+	- Good posture
+	- hand fight to get to the core
+	- execute the takedown
+- To learn takedowns do it from the ground.  Just #3, mat return relentlessly
+- Whoever is sitting behind the other's hip gets the takedown.
+- If you're holding onto their wrist, then they don't have 3D control and there's a way for you to get out
+- You can hold onto someone's hand so they can't hold onto you
+
+## Protecting Inside Position
+- Phase 0: Maintain Posture
+- Phase 1: Close the door (inside position: arm pits to hips, neck to shoulder)
+- Phase 2: Hold the hand that would go in the door ("Kill them on the lawn")
+
+---
+## 2024-01-28
+
+Handfighting:
+Their 3d control only works if they beat you on the handfight.
+Under, over, around, and through (for elbows and knees).
+Postmortem the handfights with someone 
+- Martial Arts and Philosophy book
+	- State of no mind
+		- you can postmortem but not narrate in the moment if you are of no mind
+		- when postmorteming you're explaining the ideas to yourself
+		- stop them and go "What happened there?"
+		- Chris: "You're only capable of doing the no mind things because you fully understand"
+Standing hand fighting is like open guard, same objectives.  Feet fighting, hand fighting.
+What is success in a hand fight?
+	 Getting past the hands and elbows to get access to the spine?
+	 How? Under, over, around and through.
+
+If you can't get underneath someone's elbows, don't double leg.
+Get a takedown associated with each (U, O, A, T).
+
+Chris's whole gym has great wrestling but does no explicit takedown training.  Because they handfight and get to the spine and spend time there.
+
+Work on handfighting consciously and read what they are doing and what options they are giving me.
+
+Training with people who are less skilled gives you great opportunity to learn because they give you one problem to solve at a time, whereas peers or better opponents will shut you down before you can learn.  Train what you don't know with those who are less good so you can experiment and progress.
+
+The "blue belt curse" is what you have to break to get to purple belt.  Don't be afraid of loss to lower belts, you have to experiment to improve.  Be willing to experiment and lose to white belts.
+Play the stuff that you suck at on bad players and postmortem it and that's how you improve with techniques you're not good at. "Get over yourself".
+Identify the small failures.  It's a snowball that builds to a moment, to a takedown, to a submission.  There are so many moments, so many small failures.
+
+Just get underneath their arms and you'll find double and single legs.
+Get your belly button on them and push them over, tie the knees together.
+Try faking the side step (what you're good at) and going into a double leg.
+
+If you handfight their elbow on the standup, they're never going to flank you.
+
+Attack the periphery to access the spine, once you control the spine, then you can submit the periphery - souders or danaher
+
+What is handfighting, it's getting past the elbows, that's the objective.  Over Under Around and Through.
+
+All the grips that you do with your legs / feet have a sibling position with your hand grips.  Closed guard is just double unders, half guard is just a single leg.
+There's always a handfight, even in a doubleleg, you're getting under the elbows, the handfight was invisible.
+
+## 3/2/24
+Thai clinch works because you own the centerline
+Address collar tie with "over under around or through"
+
+The 4 distances
+- Too far to do anything
+- hand fighting distance (as soon as you can grab their hands)
+- "over under around or through" the elbows
+- control of the spine (glue your bellybutton to their body)
+
+Think of the belly button as a reference in all "distance 4" scenarios (double leg for example). Fixing belly button placement will fix head placement.
+
+If you're locked up in a mutual collar tie, fight for centerline
+"centerline control"
+
+You can break their posture by twisting it or bending it
+
+The overemphasis of one (O, U, A, T), leads to another.
+
+
+---
+Responding to the leg weave. if I already lost, they got past my knees, then I need to go defensive
+
+You don't push something that's pushing against you.  You don't push a static object.  If is impossible for top side person to move with out taking their weight off.  Like to go to mount, they have to take their leg off the ground and for that brief moment, the leg is weightless.
+He'll blindfold them and do the old wing shun kung fo drill.
+If you're too tense to block the punch they get hit, but if they relax and feels it, they'll block every time.
+So think of this in side control, if I'm framing and tense I wont feel it coming, but if i relax I will.
+IF YOURE TENSE YOU WONT FEEL THEIR INTENTIONS.  YOU MUST BE RELAXED TO READ THEM.
+You can do this blindfolded, it helps with escapes.
+
+---
+Darce escapes:
+Grab the wrist and keep the shoulder down.
+As soon as they relax their grip in any way, **elbow them in the armpit** and follow them out the back door.
+Never go elbow deep in an anaconda because they can americaana you just by grabbing the arm and turning.
+Put a lot of pressure in their shoulders: darce -> kimura, anaconda -> americana
+arm in guillotine: put your shoulder on their sternum and keep them flat on their back
+guillotines only work when the attacker is flat on their side
+
+All 3 of these arm triangles are only available because they got access to my armpit.  Those chokes aren't accessible from "positions", they're accessible from "arms being opoen"
+
+elbows in, shoulderblades back (for posture).  Reach just as far as your shoulderblade will let you.
+
+When you reach (like from half guard), reach with a back palm (pronated) to keep your shoulder stronger (like Chris Novasky showed for retaining overhook). It keeps them from flattening you out.
+When you feel this, it'll blow your mind.  Reach back palm and there's no collapsing.
+This applies to defending darces too.
+
+Homework: 
+- Belly button reference
+- 4 distances when it comes to elbow protection
+	- game: jump to defense as soon as they get past your kness.  This should be a trigger.
+- The kung fo exercise.  Play with moving when they do.  You can't move forwards without taking weight off of one leg.  Just wait for them to move and then sweep them and knock them over.  Don't try to sweep a static person.
+
+When you have a collar tie, use a "U" grip instead of a "C" grip. The difference is the wrist bending and being a part of the grip.  If gives you more directions to apply force.  "C" grip can only go down and acrsoss, "U" grip: down, across,  and back into a guillotine.  If they're doing a collar tie on me, come underneath and flick the U grip.
+You've gained access to the spine, maximize it.  You got access to the spine, bellybutton on and shoulderblades back; maximize it.
+
+Shoudlers back and down, like yoga cobra.  Old school wrestlers keep their shoulders back, they can't reach cause they've got their shoulders short.

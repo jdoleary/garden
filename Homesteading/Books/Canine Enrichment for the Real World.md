@@ -6,7 +6,7 @@ link: https://www.amazon.com/Canine-Enrichment-Real-World-Making/dp/1617812684
 created: 2023-10-26T11:38
 updated: 2023-11-19T07:09
 ---
-![[book-cover-canine-enrichment-for-the-real-world.jpg]]
+![[Homesteading/Books/assets/book-cover-canine-enrichment-for-the-real-world.jpg]]
 
 ## 1. Enrichment then and Now
 > [Dr. Markowitz] said, "Enrichment should be a synonym for 'more like nature.'"
