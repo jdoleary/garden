@@ -4,7 +4,7 @@ tags:
 link: https://courses.jordanteachesjiujitsu.com/courses/wrestling-for-bjj
 author: Jordan Preisinger
 created: 2023-10-26T10:04
-updated: 2023-11-27T12:31
+updated: 2023-12-18T13:48
 ---
 # The Primary Concept
 A dominant stance consists of:
@@ -12,6 +12,11 @@ A dominant stance consists of:
 - An Underhook
 - Inside Thigh Position
 If you are ever in a situation where you don't know what to do, fight to establish these three (but not necessarily all at the same time)
+
+# Chapter Summaries
+- Stance
+	- A good stance is not too low (exposes head) and not too high (exposes legs)
+	- 
 
 # Conceptual Overview: Stance
 The "same side" arm of the lead leg should always protect the lead leg.
@@ -144,3 +149,10 @@ Detail: If you pick the leg up, hold the heel and cover the toes so they can't j
 When you're going for the trip, don't "go to them" because you'll compromise your stance if you do. Instead, "bring them to you" by lifting his knee which forces his foot closer
 ![[Pasted image 20231108101958.png|360]]
 If they grab on to your collar for balance, you can grab their elbow over the top with your near hand and circle away to make them fall (timestamp 6:15).  It's very similar to Running the Pipe but your holding onto their heel and elbow instead.
+
+## Sprawl Defense
+Bone Grip
+![[Pasted image 20231204192346.png|360]]
+After you sprawl a shot, when they get up there's an opening to pass behind their shoulder
+![[Pasted image 20231204192436.png|360]]
+"When he comes up, I pass by and can walk and block that far leg"

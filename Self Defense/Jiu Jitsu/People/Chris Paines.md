@@ -1,6 +1,6 @@
 ---
 created: 2023-10-11T12:07
-updated: 2023-11-19T07:10
+updated: 2023-12-28T12:37
 ---
 - [How to Defend Everything](https://youtu.be/BWitv9AKoNU)
 - Who ever is in control is the person who exists between the other person's knees and armpits
@@ -129,7 +129,7 @@ Create space all of the time and they will have a much harder time submitting yo
 - When both combatants are standing, to take them down your only objective is to get behind their shoulder and connect.
 	- Think of keeping your belly button connected to them (this ensures good posture)
 ---
-10-28-2023
+## 10-28-2023 - notes meeting with Chris
 
 Arm drag: lock the arm in place and walk around it
 ## Flanking
@@ -187,4 +187,39 @@ The control joint is the most important to control.  The control joint dictates 
 
 Free the hip vs control the hip IS the leglock shootout
 If I ask you to break a stick you have to control both sides of it.
-- [ ] Record footage of myself rolling
+
+---
+## 12/28/2023 Notes Meeting with Chris
+Combat base is the same as the standing down block when kneeling.  It does the same thing and protects the same spots.
+
+Standing passing is the same as guard passing.  In guard passing you can go through, over, under or around the knees.  In standing you can go through, over, under or around the hands and elbows.
+
+When standing, if you're going to attach to someone, attach with your belly button or else you're breaking your own posture to take them down.
+
+"The best way of learning takedowns is doing mat returns from non-standing" -Pritt or Danaher or someone
+
+3 phases of takedowns:
+1. Good posture
+2. Hand fight to get to the core
+3. execute the takedown
+Practicing mat returns alone allows you to train #3 and refine the end stage where you're already attached to them.
+
+Whoever is sitting behind the other's hip will get the takedown.
+
+Samurai position instead of referee when getting up from running man because it protects your inside position and keeps your head far from their access so you can't get choked.
+When you're getting up and they're behind you, if you're holding on to one of their hands, then there's a hole for you to get out (remember 3d control)
+
+Referee is only good if they're in front of you, use samurai if they're behind you and half of each if they're on the side.
+
+**important**
+These are the layers of defense:
+1. Good Posture
+2. Close the door (e.g. protect your inside position)
+3. Hold the hand that would go through the door ("kill them on the lawn")
+	Don't even let them through the door.
+
+Offense goes in the opposite of these steps.
+This applies to standing and ground.
+
+osoto gari gets you past the elbow on the inside.
+
