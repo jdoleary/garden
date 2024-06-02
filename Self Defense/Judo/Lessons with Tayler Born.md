@@ -21,3 +21,8 @@ You can Ankle Pick off of a failed [[Uchi Mata]].  Just place your lifted leg be
 - If they get the color tie, you can do overtie by reaching with the same side hand, grabbing their ear and pulling their head to their shoulder. 
 - When it comes to foot sweeps, anytime at all that they step with a foot foot, that just stepped has more weight on it.  And so the other foot is sweepable. 
 - For uchimata, step closer and get your hips under theirs. Feet parallel. With your far arm, extend forward, not in and look at your wrist watch. Even without executing the throw, they should be on their toes and almost getting pulled in a circle. Lean away at and angle and pull up with the other hook.
+
+### 6/1/24
+- Covered building up from turtle, get the hips high and stay high.  Whoever's hips are higher wins.
+- If they have head and arm you can peak out on the arm side (this works well if they are chin strapping you)
+- If they have an anaconda grip, ear pummel, step hard towards them and rotate out to armdrag
