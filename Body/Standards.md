@@ -1,0 +1,34 @@
+---
+created: 2024-06-28T17:29
+updated: 2024-06-28T17:40
+---
+- Gymnastics
+	- Planche
+	- Manna
+	- Front Lever
+	- Side Lever
+	- L-Sit
+	- Forward Fold
+	- Bridge
+- [The Barbarian](https://x.com/0xAlaric/status/1802114619030327666)
+	- 225 bench
+	- 315 deadlift
+	- 6:30 mile
+	- 75 second 400
+	- 5 rds sparring without gassing
+	- Able to touch fists to the floor
+	- Ruck 12 miles in 3 hours
+	- 10 pull-ups
+	- 50 push-ups
+	- 600m swim w/o stopping
+- Nordic Curl
+- Overhead Press Squat
+- 100 Squats bodyweight (caution rhambdo?)
+- Grappling
+	- Survive
+	- Escape
+	- Transition / Takedown
+	- Control
+	- Submit
+- Nervous System Tension
+- Sleep Quality
