@@ -375,3 +375,139 @@ When you have a collar tie, use a "U" grip instead of a "C" grip. The difference
 You've gained access to the spine, maximize it.  You got access to the spine, bellybutton on and shoulderblades back; maximize it.
 
 Shoudlers back and down, like yoga cobra.  Old school wrestlers keep their shoulders back, they can't reach cause they've got their shoulders short.
+
+## 3/23/24
+
+"If I can weaponize gravity it makes it harder for you to attack me" (standing up while someone has your back)
+double trouble, stacking the hips
+I'm not getting experience with people doing my strategy of just standing up. This is why it's best to practice in a gym-wide kind of way.
+
+My stance is unusual, right handers usually wrestle right hand forward. So you can use your hips to pull.  Stronger attacks on your arms (for pulling) will be on the front side
+Down block until you need it.
+Which side your present forward dictates what options your opponent has
+
+I might not be shooting cause I usually stand with left leg forwards.
+I approach guard and knee cut right light forwards but in standup I do left leg forwards.
+
+This is top 3 important things to understand about my own personal jiu jitsu.
+Understanding how your body works left and right.  How it changes from side to side.
+(The other 2 are learning defensive postures and standing up.).
+"One hand holds the paper, one hand holds the pen".  One is used for control, and one is used for attack.
+Things I haven't been able to pull off, it may just be because I'm on the wrong side.
+It's amazing how much a difference this makes.  Even something as simple as running man.  My weak side vs their strong side.  Or vice versa, you can use this to your advantage.
+
+---
+
+## 5 year plan
+Blue belts often develop an "A" game, become good at it and stick to it because they don't want to lose to white belts.  So naturally when you take on new things, you'll try it, fail, and go back to your "A" game.  Your ego says "don't lose, you're a blue belt".  You can't let your ego get to you.
+
+Don't be afraid to try new things.  Balance my time between "doing the right thing" but once you're happy with it, don't let your ego keep you from trying new things.
+
+Blue is the buffet belt.
+
+Bonsai tree: Being upright, keeping your balance, having good hand fighting.  That'll take the longest time.  
+Trunk: Balance, Posture, Handfighting
+Defining characteristic if someone is good: if they can't take you down, can't beat you at hand-fighting.
+What's the defining characteristic of my progress? Learning more techniques or becoming an unstoppable machine.
+Spend your time at the thickest part of the tree.
+Are there diminishing returns to focusing too much on the trunk of the tree?
+Chris: nope!
+
+Pearl analogy:
+Starts as a grain of sand, filtering and added calcification (layers and layers) turn it into a pearl.  Once you find a grain of sand, if you keep going at it and exploring it, you'll learn everything around it.  Eventually you'll grow outwards.  
+
+White Belt: Defense and true fundamental movement
+Blue Belt: The buffet belt, the ability to explore everything 
+The progress of a blue belt is that they're willing to experiment.
+You need to sample everything so you're never lost.
+Be curious around that grain of sand and it will grow.
+Purple Belt: Now you've tried everything, you're trying to sharpen the blades.  There is no weird places or positions for a purple belt.  They're not good at everything but they never get lost.  Shaving off all that excess motion.
+Brown Belt: Is a blackbelt without a legacy.  A dangerous person.  Chris teaches them by giving them access to things that further their career.  Now change your mindset to look at depth of coaching, understanding, explanation.
+
+Chris Hauter: Swimming analogy
+You throw a _ into the deep end of a pool:
+- White belt: Drowns
+- Blue Belt: Paddles until they get into a part of the pool they can't understand and they drown
+- Purple Belt: Can swim.
+
+
+Chris as a black belt: There's nothing else to chase (belts).  The belts will come, the skill will come.  If you just show up.  Not having to chase a belt made me happier, now I'm just curious.  I want to understand how to help people better. It's just depth.  Always getting deeper and deeper.
+
+Remember the scissors analogy, when choking the open arm should touch the neck first.
+
+---
+## 2024-04-29 - Safety and Longevity
+
+The environment of the school dictates safety.  Young fellas are gunna gun for you.
+
+The first injury everyone gets in JJ is rib injury.
+Jogging is better for your than swimming because the stress on your bones strengthens them.
+Same with weightlifting.   But no one can work their ribs.
+Bones and ligaments need to be under stress to stay strong.
+As you get older your physical fitness will look after you but if you roll with crazy people they will hurt you and you can't avoid it.
+
+Staying on top and controlling will also protect you (Chris's way), it looks after both you and them, especially against spazzes.
+You can throw submissions at them but then the round restarts but if you pin them, then they can't hurt you.
+It's lower belts that will hurt you (generally higher belts have the humility to look after you)
+"I'm mean to beginners, I control them fully" to save myself and them.
+Control will stop powerful, unskilled people from doing dumb shit to you.
+
+If you keep that mentality, I could do this forever.  Pin them, control them.
+
+Main people that cause you injury
+	- Powerful, unskilled people
+	- Skilled people with an ego
+
+"The thing that broke me the most was being young"
+You need to get your skills up while you're young and can take the beatings.  That takes violence.
+But at the same time, being the violent 20yr old is what broke my body.
+
+"When I was younger, I always had something to prove.  When I got my blackbelt I just stopped caring, I've got nothing else to prove."
+
+"I started TRT last year and all those pains disappeared, physically I'm back to 20 again."
+"If you're trying to prove yourself, you're going to get hurt, you're going to get battered."
+"The tapout era, the no-fear, die on the mats mentality - that's what broke us."
+
+- [ ] Renato Paquet, red belt, find the footage of him rolling with young blackbelts.
+- [ ] Look for the InTheory video on how to flow roll
+	- Of all the things you can do, this is the one that looks after you the most
+	- Chess drill: "roll to kill each other", but your only allowed to do one move at a time
+		- You can't stop the other person from their move (like breaking a grip)
+		- gentleman's agreement on how much "one move" would be
+		- This makes it almost impossible to get a submission
+		- Gets boring after 5 minutes
+	- Second drill: Monkey Drill.  Same as chess drill - one move at a time - but you have to do the exact wrong thing.  If it looks like Jiu Jitsu, like it makes sense, you did it wrong.  You have to choose the weirdest craziest shit you can think of.
+	- It looks like twister
+	- as you do one for one the weirdest stuff, you'll end of landing in real positions that you'd never think of getting there normally.
+	- People are obsessed with doing the "right thing" and so they're tense but monkey drill teaches you there's a billion ways of getting to great outcomes.
+	- Third drill: Flow Drill. Same feeling of Monkey, allow your body to move with 0 resistance, do the same thing but make it look more like Jiu Jitsu, if someone pushes you, you allow it to happen.  Keep that constant contact.
+	- "With those 3 drills, I have broken the most stubborn mother fuckers.  After these 3 drills they can now flow roll."
+	- This is from Christian Growgart
+	- If you can flow, this is the route to train Jiu Jitsu forever.
+	- This is why drunk people survive car crashes better.
+
+On the belt system.
+"I don't like it".
+I give belts only so they can compete or to show that I appreciate their skill growth.
+I gave 4 people blues this week, 12 years (missed some years), 6 years, 5 years consistent, 3.5 years consistent.
+White belt denotes a student
+while color belts denotes level of instructorship
+Jiu Jitsu is power-based.  We fight in divisions where power is controlled so we can measure skill.  Jockeys have to weigh in for horse racing so you can measure the horse because the jockeys weight the same
+Variables are age, size and gender.
+But in the gym, it's an absolute division.
+Belts create hierarchy in the gym.
+
+CAUTION:
+Never go for a guillotine from standing.  This is a technique that is known historically to snap people's necks and leave them crippled.  head outside single leg is banned at whitebelt jiu jitsu level.
+In wrestling you can't grab people by the head and you don't jump onto your back. So head outside singles can exist but in jiujitsu people will grab hold of the neck and jump backwards.
+- [ ]  Look up the footage. 
+- Broulio https://www.reddit.com/r/bjj/comments/3dorul/brazilian_jiu_jitsu_competitor_has_neck_broken/
+
+Same with jumping guard, blows people's knees out.
+
+June 2nd Richmond VA *especially this one* PJ Lucy
+June 3rd Baltimore DC
+June 4th Chantilly VA
+
+Jiu Jitsu is the best vehicle for seeing the world, you have friends everywhere.
+- [ ] Look up "The Gentle Art of Travel", this is why Chris does Jiu Jitsu
