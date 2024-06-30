@@ -50,7 +50,7 @@ Major Joints: Elbows & Wrists, Knees & Ankles
 - Eccentric movements (resistance while extending) supports recovery and rehabilitation
 - Concentric movements (resistance while contracting) supports strength development
 
-Full range of motion and compression and release stimulates blood flow and senovial fluid
+Full range of motion and compression and release stimulates blood flow and synovial fluid
 
 ## Somatic Awareness
 Just as you can improve your ability to articulate your fingers (compare a guitarist to a non-guitarist), you can also improve your inner body awareness.  

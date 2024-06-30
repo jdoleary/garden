@@ -1,0 +1,88 @@
+- Health
+	- Mobility
+	- Endurance
+	- Strength
+	- Recovery
+- Hunt for imbalances
+- Be body aware to prevent injury before it builds
+- Train the CNS
+- Jiu Jitsu training should be intelligent and programmed
+	- Heavy situational sparring and live sparring
+	- Less drilling and new technique study
+	- Focus on Alignment / Posture, hand-fighting, and control (this is the trunk of the tree)
+	- Be relaxed or else you'll have to relax before you act
+
+
+A weeks worth of training:
+- Mobility
+	- Daily Warm up
+	- Daily Mobility (Gymnastics Bodies)
+	- Once a week intensive 45min
+- Endurance
+	- No plan yet
+- Durability
+	- Reverse treadmill
+	- ATG
+	- Arm / Elbow / Shoulders; tendons
+- Strength
+	- Deadlifts / Dips
+	- Squats / Pullups
+	- Alternatives (variety to prevent plateau)
+		- Kettlebell overhead squat
+		- 100 bw squat
+		- Split squat
+		- Pistol squat
+	- Hit each of the compound movements at least once a week
+	- **Do not train to failure**, stay under 5 reps per set to focus on strength
+- Recovery
+	- Good eating and sleeping
+	- Be aware of the state of your tendons
+- Assessment Movements:
+	- Hanging Leg Lift
+	- Bridge (Thorasic)
+	- Shoulder Extension
+	- Dumbbell Windmill
+- Jiu Jitsu
+	- Positional Sparring: Escape/Control
+		- Note: These are the branches of the tree
+		- Side
+		- Mount
+			- Knee on Belly
+		- Back
+			- Body Triangle / Hooks
+		- North/South
+		- Spiderweb
+		- Turtle
+		- Legs
+		- Specialty
+			- Truck
+			-  Reverse Mount
+	- Positional Sparring: Survive/Submit
+		- Note: These are the leaves of the tree
+		- Locks (Upper Body)
+			- Armbar
+			- Estima Lock
+			- Heel Hook
+			- Kimura (Side / NS) / Americana
+			- Omoplata
+			- Wrist Lock
+		- Locks (Lower Body)
+			- Kneebar
+			- Straight Ankle Lock
+			- Heel Hook
+			- Toe Hold
+			- Estima Lock
+		- Slicer
+			- Calf Slicer
+			- Ham Sandwich
+			- Arm Slicer
+		- Strangles
+			- Darce / Anaconda
+			- North South Choke
+			- Peruvian Necktie
+			- Rear Naked Choke
+			- Arm Triangle
+			- Leg Triangle (Regular, back)
+			- Guillotine
+- Judo
+	- Once a week with Taylor
