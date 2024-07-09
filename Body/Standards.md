@@ -10,11 +10,13 @@ updated: 2024-06-28T17:41
 - Gymnastics
 	- Planche
 	- Manna
+		- 90 degree shoulder extension
 	- Front Lever
 	- Side Lever
 	- L-Sit
 	- Forward Fold
 	- Bridge
+	- 3x legless rope climb
 - [The Barbarian](https://x.com/0xAlaric/status/1802114619030327666)
 	- 225 bench
 	- 315 deadlift

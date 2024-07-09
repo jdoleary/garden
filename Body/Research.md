@@ -1,0 +1,51 @@
+- Chris Sommer
+	- Be patient, flexibility gains happen over months of no observable progress
+	- Calf plyometrics are a great warmup and help forward fold
+	- **Connective tissue thrives on high-rep work**
+	- Increase connective tissue strength at high levels with very high load, very very short duration, high intensity microbursts (plyometrics)
+	- a 10 year old is capable of 15 slow controlled muscle ups
+	- Don't train through pain
+		- Fatigue feels better after your stop, injury feels worse after your stop
+	- Doing each day **less** than you feel maximally capable of (this is the same thing Pavel says)
+	- Repping to failure is **not** good for beginners
+	- QL walks for lower back and hips.  Supports pike
+- Power to the People! ~Pavel
+	- "Intensity is the single most important factor in strength training"
+	- "Muscle failure is.. counterproductive!"
+	- "The most intelligent way to develop strength is to lift much heavier weights... but to terminate your sets before your muscles fail"
+	- We never use 100% of our muscles capacity, so training your Central Nervous System can result in dramatic strength gains without size gains. "Grease the Groove"
+	- Anything over 5 reps is bodybuilding.  Stay 5 and below for strength.
+	- Get the most out of strength training
+		- Limit reps to 5 and fewer
+		- increase rest between sets to 3-5 min
+		- limit number of sets to 2
+		- pause and relax between reps
+		- do not practice a lift more than 5 times a week
+		- Focus on perfect form (neural pathway)
+	- "Heavy, low rep training is the safest way to lift"
+- The Wisdom of Mike Mentzer
+	- Note: Mike died early and was known to have taken serious drugs but his principles may still be useful
+	- 7 Principles
+		- Identity
+		- **Intensity**
+			- "The body receives no training effect from doing what it finds easy to do"
+			- "You can train hard or you can train long - you just can't do both."
+			- "The more intense the workout, the shorter its duration has to be"
+			- "It is necessary to train as intensely as possible"
+		- Duration
+			- 
+		- Frequency
+			- Mike trained once every four to five days to allow for full systemic recovery
+			- (Remember: Steroids allow for better recovery and he was already advanced, this may not be true for beginners)
+				- "For a beginner, the stress he can generate and thus subject his muscles to is minimal..." which requires less recovery time
+		- Specificity
+			- "You get what you train for"
+		- **Adaptation**
+		- **Progression**
+	- "Rather than have someone do a second set, what they should do is, maybe, an extra rep"
+	- "from the time you start training you should be able to reach the absolute upper limit dictated by your genetic endowment within two years"
+	- "after a two- to three-week layoff, they come back and they're stronger."
+	- "The first thing your body must do after a workout is...recover"
+		- Recovery takes 2 - 4 days
+	- "Two sets performed once every seven, eight, or nine days works almost like magic for the majority of bodybuilders I'm training."
+	- Deadlifts / Dips ; Squats / Lat Pulldowns

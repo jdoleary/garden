@@ -50,7 +50,7 @@ Major Joints: Elbows & Wrists, Knees & Ankles
 - Eccentric movements (resistance while extending) supports recovery and rehabilitation
 - Concentric movements (resistance while contracting) supports strength development
 
-Full range of motion and compression and release stimulates blood flow and senovial fluid
+Full range of motion and compression and release stimulates blood flow and synovial fluid
 
 Never go to muscle failure - Pavel
 A lot of "Strength" gains can occur simply by training the Central Nervous System to use more of the muscle.  I believe this is how athletes like Natalie Rekert are able to achieve high level handstands without bulk.  Use "Grease the Groove" (Pavel)
