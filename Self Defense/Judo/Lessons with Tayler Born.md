@@ -1,3 +1,7 @@
+---
+created: 2024-06-28T18:17
+updated: 2024-06-28T18:17
+---
 ### Lesson 1
 Dominant position primarily relies on dominant head position.  [[Under Hook]]s and [[Overhook]]s are secondary.  Underhooks and overhooks are meaningless unless they are applied effectively. (Underhook: go deep and grab the shoulder, overhook: connect to yourself with your hand and drive them upward or downward).
 

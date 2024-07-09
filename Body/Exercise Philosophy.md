@@ -2,7 +2,7 @@
 tags:
   - philosophy
 created: 2023-10-11T12:30
-updated: 2023-12-28T12:21
+updated: 2024-07-09T10:54
 ---
 
 # Exercise Philosophy
@@ -51,6 +51,9 @@ Major Joints: Elbows & Wrists, Knees & Ankles
 - Concentric movements (resistance while contracting) supports strength development
 
 Full range of motion and compression and release stimulates blood flow and senovial fluid
+
+Never go to muscle failure - Pavel
+A lot of "Strength" gains can occur simply by training the Central Nervous System to use more of the muscle.  I believe this is how athletes like Natalie Rekert are able to achieve high level handstands without bulk.  Use "Grease the Groove" (Pavel)
 
 ## Somatic Awareness
 Just as you can improve your ability to articulate your fingers (compare a guitarist to a non-guitarist), you can also improve your inner body awareness.  

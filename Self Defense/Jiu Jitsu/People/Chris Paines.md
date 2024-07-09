@@ -1,6 +1,6 @@
 ---
 created: 2023-10-11T12:07
-updated: 2024-03-05T16:41
+updated: 2024-06-28T18:17
 ---
 - [How to Defend Everything](https://youtu.be/BWitv9AKoNU)
 - Who ever is in control is the person who exists between the other person's knees and armpits

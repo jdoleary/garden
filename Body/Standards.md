@@ -1,7 +1,12 @@
 ---
 created: 2024-06-28T17:29
-updated: 2024-06-28T17:40
+updated: 2024-06-28T17:41
 ---
+- Categories
+	- Mobility / Flexibility
+	- Strength
+	- Endurance
+	- Calm
 - Gymnastics
 	- Planche
 	- Manna
