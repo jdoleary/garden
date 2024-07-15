@@ -2,7 +2,7 @@
 tags:
   - philosophy
 created: 2023-10-11T12:07
-updated: 2023-11-19T15:15
+updated: 2024-07-09T10:55
 ---
 
 If you get submitted...

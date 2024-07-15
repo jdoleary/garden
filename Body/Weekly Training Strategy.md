@@ -1,3 +1,25 @@
+---
+created: 2024-07-09T10:55
+updated: 2024-07-09T11:45
+---
+
+## Training Plan
+- Mobility / Knee Elbow Shoulder Bullet Proofing
+	- Connective tissue thrives on high-rep work, do not treat connective-tissue training like strength training
+- Strength
+	- High Intensity, <=5 reps.  2 sets max.  Stop well before failure. Hold yourself to perfect reps
+	- Rest 3-5 minutes between sets, pause and relax between reps
+	- Recovery takes 2 - 4 days
+- Deadlift / Dips
+- Squat / Pull up
+
+- Schedule
+	- Sunday, Wednesday: Squat / Pull up
+	- Wednesday: Long Stretching after strength work
+	- Tuesday, Thursday: Deadlift / Dips
+	- Everyday: Warmup mobility, Joint training
+
+## Details
 - Health
 	- Mobility
 	- Endurance

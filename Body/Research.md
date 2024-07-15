@@ -1,8 +1,12 @@
+---
+created: 2024-07-09T10:55
+updated: 2024-07-09T11:38
+---
 - Chris Sommer
 	- Be patient, flexibility gains happen over months of no observable progress
 	- Calf plyometrics are a great warmup and help forward fold
-	- **Connective tissue thrives on high-rep work**
-	- Increase connective tissue strength at high levels with very high load, very very short duration, high intensity microbursts (plyometrics)
+	- **Connective tissue thrives on high-rep work**^connective-tissue
+	- Increase connective tissue strength **at high levels** with very high load, very very short duration, high intensity microbursts (plyometrics)
 	- a 10 year old is capable of 15 slow controlled muscle ups
 	- Don't train through pain
 		- Fatigue feels better after your stop, injury feels worse after your stop
@@ -33,7 +37,6 @@
 			- "The more intense the workout, the shorter its duration has to be"
 			- "It is necessary to train as intensely as possible"
 		- Duration
-			- 
 		- Frequency
 			- Mike trained once every four to five days to allow for full systemic recovery
 			- (Remember: Steroids allow for better recovery and he was already advanced, this may not be true for beginners)

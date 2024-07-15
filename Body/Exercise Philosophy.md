@@ -2,7 +2,7 @@
 tags:
   - philosophy
 created: 2023-10-11T12:30
-updated: 2024-07-09T10:54
+updated: 2024-07-09T10:55
 ---
 
 # Exercise Philosophy
