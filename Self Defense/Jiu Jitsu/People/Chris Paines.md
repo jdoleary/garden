@@ -1,6 +1,6 @@
 ---
 created: 2023-10-11T12:07
-updated: 2024-06-28T18:17
+updated: 2024-07-31T20:00
 ---
 - [How to Defend Everything](https://youtu.be/BWitv9AKoNU)
 - Who ever is in control is the person who exists between the other person's knees and armpits
@@ -511,3 +511,59 @@ June 4th Chantilly VA
 
 Jiu Jitsu is the best vehicle for seeing the world, you have friends everywhere.
 - [ ] Look up "The Gentle Art of Travel", this is why Chris does Jiu Jitsu
+
+---
+2024-07-31
+#### On getting up from referee and framing one of their arms out (3D control)
+Go two steps one way and then when they chase go one step in the other and you'll out rotate them.
+Stiff arm them out, circle away from them and let them chase and then change direction.
+
+Think of a bicycle wheel, the gears turn 15 cm and the outer wheel will turn 90cm.  Understand **circles**.  All scrambles are **circles**.  If there's a circle, then there's a center and a rim.
+"Am I on the outside or the inside?"
+
+There's also the arm pass around the back.  You can do it from standing or on the ground.
+Spin on a pin.  Quickest way of turning and it makes them chase.
+
+If you're on the outside, get them to change the circumference of the circle.  Footwork must be tight.
+
+#### On tapping them to exhaustion
+Chris makes people tap to exhaustion. Not pressure.  He's focusing on ignoring everything that isn't the hips.  Fasten to the hips and drag them into the floor.  Sit on his legs and hips.  "Going for submissions is kinda bad for you and makes you 'rob the gasstation' / 'hail mary' a lot".
+
+Grab the hip bone itself.  And cup the leg and start dragging the hips.  Even single legs.  Priit lies on your kidneys (with his collar bone) and puts all his pressure through there when he single legs.  When you do that they'll go down every time.  **The discipline to only attack the hips**. It's like driving with the hand brake on, they might get where they want to be but it'll be slower and exhaust them.
+
+If I'm on top, put the hips in a box (instead of holding them down with pressure).  If you're putting downward pressure on hips they can slide out. Instead pinch around them with wedges.  **Put the hips in a box.** and pinch.  Instead of holding the pressure down. Their hips have to operate in a box I control.  *I'm not even necessarily using weight to hold them down, just maintaining the box.*  Because pressuring onto them makes ME vulnerable to tip over when they slide or pivot out.  You need to be connected to the floor.
+
+To make them tap to exhaustion:
+- Box in the hips
+
+4 steps to pass anyones guard:
+1. Maintain my own balance, connection to the ground, posture
+2. (while in someone's guard) attach to their hips and drown their hips. **this works for ANY guard**
+3. Once I've boxed in the hips, don't try to pass but just get ahead of the knee caps
+4. Once I'm around the knees, put the hips in the box; bring your legs in to do the job your arms are doing to box in the hips and now your arms are free since they've been relieved by the legs.  Now the arms can attack the upper body (fold them and twist their spine)
+When I've got their hips and collapse their spine, it's claustrophobic and they panic their way out and exhaust themselves and I just reapply the steps.
+
+#### On folding people
+The way to fold someone is to put your hands on the floor (behind head and knee) and, like a real anaconda snake, wait for them to move, take up the space and stick them there.  You don't have to squeeze at all, just take up the space they give you.  Create the box.  use the friction of the ground to put a bar behind their head and every time they move to escape take up space.  **"People will always break their posture to escape"**
+I'm not purposely folding them, I'm letting them break their own posture and I don't let them get it back, step by step.
+
+You can break their posture in either direction, extension or flexion.  Constant posture breaks exhausts them.
+
+#### Tournament advice
+If I'm racing someone who is serious (full energy) and I make a mistake they'll catch it, so don't race them outright.  You have to slash the tires, rev out their engine and burn their fuel. Sabatoge their car and then winning is easy.
+Burn them out on the handfight, then takedowns are easier.  Your first attempt is less likely to succeed compared to your 20th attempt when they aren't as sharp.
+
+Don't try to win against a fresh opponent, make them wear down.  Make them frustrated.  Then your moves will work.
+
+"I can maybe submit you now, but I'll take you further into hell" - this mindset will make your submission rate go through the roof.
+Don't attack someone when they are strong and fresh and focused.  Attack someone who is desperate, broken, tired, and not running on all cylinders.
+
+#### Defending back takes from referee
+"Any time you get your back taken, it means you got flanked (flanked your elbow)". If they're flanking your elbow it means the circle problem exists.  You're sitting ever so slightly too narrow.  Sit deeper and see if people are taking your back as much.  If you pull your shoulder back a little bit (change your shape, narrow to wide) they'll have a hard time taking your back.  Widen your flank and you'll be able to directly reengage on your stand up.
+Get up facing them.
+
+In referee, if someone is directly behind me, that's bad.  Try to use Kindle to stand back up instead of rolling to turtle from running back.
+
+Mentally go back a step and see where it could be fixed earlier.  Pull your head down to your feet, put your butt in between me and them and get back into kindle (reverse shrimp).  Better chance of standing up into forward facing frame.
+
+Any time you get taken down, don't turn away, get your "guns" facing them and stand up to kindle.
