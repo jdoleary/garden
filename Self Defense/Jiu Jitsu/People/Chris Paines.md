@@ -513,7 +513,7 @@ Jiu Jitsu is the best vehicle for seeing the world, you have friends everywhere.
 - [ ] Look up "The Gentle Art of Travel", this is why Chris does Jiu Jitsu
 
 ---
-2024-07-31
+## 2024-07-31
 #### On getting up from referee and framing one of their arms out (3D control)
 Go two steps one way and then when they chase go one step in the other and you'll out rotate them.
 Stiff arm them out, circle away from them and let them chase and then change direction.
@@ -567,3 +567,29 @@ In referee, if someone is directly behind me, that's bad.  Try to use Kindle to 
 Mentally go back a step and see where it could be fixed earlier.  Pull your head down to your feet, put your butt in between me and them and get back into kindle (reverse shrimp).  Better chance of standing up into forward facing frame.
 
 Any time you get taken down, don't turn away, get your "guns" facing them and stand up to kindle.
+## 2024-09-08
+
+CJI: Controlling the hip over everything else
+Use the hipbone itself for grips.  Relentlessness to the hips.
+"As soon as I connect to your legs and your hips, I can't retreat because it allows you to get your legs back and I get attacked" Be relentless, keep pushing forwards.  Add this to the grip mentality and the "put them in the box" mentality.  When you connect to the hips, have that forward momentum, keep it going.  You can move forwards faster than they can move backwards.
+
+**Balance** is so long as your center of gravity is within your shadow https://www.patreon.com/posts/unsweepable-what-110675320  Try to keep it away from any edges, and you become un-tippable
+
+Keep your balance and hold onto their hips relentlessly. Pinch weight into the hips using legs and shoulders.  If they're bigger, don't get desperate and don't get disheartened.  Don't rob the gas station.  You need to cook the energy out of them.
+
+When rolling with huge / super strong guys: Keep my weight on the hips through my legs (**3/4 mount, power ride**).  Pinch my knees on the hips and handfight from this position to bring his shoulders above his ears.
+![[Pasted image 20240908195713.png]]
+He's sitting on the legs
+"Once you set up weight on the hips, do not remove weight from the hips.  This is your military base, don't leave the walls."
+
+Watch this whole video just noticing when weight is in the hips: https://www.youtube.com/watch?v=vXL05xZMf_c&t=2s
+
+"Decapitate from the hips/ from the pelvis"
+
+**Conventional mount has your weight on their belly.  Sit on their hips instead.  On the tops of their thighs their hip bones**  When boxing in their hips, its not the belly it's the hip bones.  Bone grips (Turkish oil wrestling)
+- [ ] Try taking a bone grip on the hips.
+- [ ] Get footage
+#### on getting Darce'd:
+On duck unders: use your belly button as the reference point when you're coming in, **put your belly button on them**.
+When you make connection with the spine, don't make connection with the shoulders, get your belly button on them.  If you do this your head and shoulders will be away from attacks.
+
