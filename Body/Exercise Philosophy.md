@@ -60,3 +60,21 @@ Just as you can improve your ability to articulate your fingers (compare a guita
 I am beginning to feel the source of tension in my body.  When I do a one-legged deadlift, I can feel the muscles and tendons move and slide inside the fascia in the back of my leg.  I am beginning to believe that we have much more capacity than I previously thought to detect and understand the inner workings of our body and I think this awareness is critical to self-evaluation of issues and determining how to best resolve them.
 I am becoming aware that my individual ribs move relative to each other when I side or back bend and when I breathe.
 In the past, I've had weird, half-baked ideas about how to address pain: stretching, massage, etc.  But they often didn't relieve the pain or sometimes made it worse.  When our body is in pain there is a reason.  I no longer believe that the solution is to "smash" the tension out of the muscles and now I know that flexibility in and of itself isn't a good thing.  Our bodies are a whole system.  Sleep, breathing, digestion, light, movement, muscles, skeleton, nerves, tendons, fascia, external toxins, nutrient needs, variety, etc.  If we cannot see the system how can we hope to fix what's wrong.
+
+## Fitness Standards "Well Rounded and Dangerous"
+- Standards
+  - L-sit: 30 seconds
+  - Forward Fold: 4 inches between nose and knees
+  - Bridge: Proper form
+  - Handstand: 60 seconds
+  - Deadlift: 315lbs
+  - Run Mile: 6.5min
+  - 400 Meter run: 75 seconds
+  - Sparring: 5 rounds, no gassing
+  - Pullups: 10
+  - Pushups: 50
+  - Swim: 600 meters
+- Focus: 90% effort is better.  "Effortless"
+- Summarized as:
+  - Push, Pull, Sprint, Swim, Move with Variety, Never to failure
+  - Flexible, Fast, Strong, Endurant

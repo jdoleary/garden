@@ -23,7 +23,8 @@ updated: 2024-07-09T11:38
 		- Limit reps to 5 and fewer
 		- increase rest between sets to 3-5 min
 		- limit number of sets to 2
-		- pause and relax between reps
+		- pause and **relax** between reps
+			- Note: Jerzy Gregorek emphasizes relaxation too!
 		- do not practice a lift more than 5 times a week
 		- Focus on perfect form (neural pathway)
 	- "Heavy, low rep training is the safest way to lift"
